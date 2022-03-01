@@ -1,0 +1,772 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters conteyning sundry deuises touching the state of Flaunders and Portingall: written by Card. Granuelle and others, and lately intercepted and published.</title>
+            <author>Granvelle, Antoine Perrenot de, 1517-1586.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1582</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 101 KB of XML-encoded text transcribed from 47 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15269</idno>
+            <idno type="STC">STC 19768</idno>
+            <idno type="STC">ESTC S101488</idno>
+            <idno type="EEBO-CITATION">99837302</idno>
+            <idno type="PROQUEST">99837302</idno>
+            <idno type="VID">177492</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B15269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177492)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1000:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters conteyning sundry deuises touching the state of Flaunders and Portingall: written by Card. Granuelle and others, and lately intercepted and published.</title>
+                  <author>Granvelle, Antoine Perrenot de, 1517-1586.</author>
+               </titleStmt>
+               <extent>[50] p.   </extent>
+               <publicationStmt>
+                  <publisher>At the Three Cranes in the vinetree by Thomas Dawson for Thomas Charde,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1582.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: pi² [-pi2] A-E F⁴.</note>
+                  <note>"Texts of 19 letters (11 of which are from Granvelle) dated in April 1582, most of them written from Madrid".--NUC Pre-1956.</note>
+                  <note>Running title reads: Letters intercepted.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  History --  Wars of Independence, 1556-1648 --  Early works to 1800.</term>
+               <term>Portugal --  History --  Spanish dynasty --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177492:1"/>
+            <pb facs="tcp:177492:1" rendition="simple:additions"/>
+            <p>Letters conteyning ſun<g ref="char:EOLhyphen"/>dry <hi>deuiſes, touching the</hi> ſtate of Flaunders and Portin<g ref="char:EOLhyphen"/>gall: Written by <hi>Card. Granuelle</hi> and others, and lately inter<g ref="char:EOLhyphen"/>cepted and publi<g ref="char:EOLhyphen"/>ſhed.</p>
+            <p>Imprinted at London at <hi>the three Cranes in the</hi> Vinetree by Thomas Daw<g ref="char:EOLhyphen"/>ſon, <hi>for Thomas Charde. 1582.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:177492:2"/>
+            <pb facs="tcp:177492:2"/>
+            <head>Letters of the Cardinall <hi>of Granuelle.</hi>
+            </head>
+            <div type="letter">
+               <p>
+                  <seg rend="decorInit">S</seg>Ir prouoſt my Lorde the Pre<g ref="char:EOLhyphen"/>late of Sainte Vaſtz brought me your letters of the <hi>14.</hi>
+                  <note place="margin">To the pro<g ref="char:EOLhyphen"/>uoſt Morillo<g ref="char:cmbAbbrStroke">̄</g> April. 1582.</note> of Fe<g ref="char:EOLhyphen"/>bruarie, wherin you yeelde mee ſufficient teſti<g ref="char:EOLhyphen"/>monie of the ſaide Prelates ſufficiencie and good qualities, the which for the time that I haue had heere to deale with him, I finde to bee correſpondent to your words. I haue vſed him friendly, and haue endeuored to make him good cheare. I haue alſo writte<g ref="char:cmbAbbrStroke">̄</g> to the court, there to pro<g ref="char:EOLhyphen"/>cure him ſome good entertainme<g ref="char:cmbAbbrStroke">̄</g>t. I am ſory y<hi rend="sup">t</hi> here we be ſomewhat dry, howbeit we do (according as we ought) e<g ref="char:cmbAbbrStroke">̄</g>deuor our ſelues to winne credite with ſtraungers, at the leaſt I will do the beſt I may, to let them vnderſtand of it. I haue alſo very
+<pb facs="tcp:177492:3"/> earneſtly preferred the ſute of his brother and of Secretary <hi>Vaſſeur</hi> and his father, and that is all I can doe, beeing ſo farre off. The matter is the leſſe, ſeeng the countie <hi>Egmond,</hi> and the L. of <hi>Cham<g ref="char:EOLhyphen"/>pagney</hi> be yet in <hi>Gau<g ref="char:cmbAbbrStroke">̄</g>t,</hi> notwithſtanding they be kept very ſtraitly: for if they had bin tranſported into Zealand, I feare we ſhould neuer haue had any good reconing of the<g ref="char:cmbAbbrStroke">̄</g>. If this wretched Orenge had died of the blowe, there had been better hope of their recouery. I remayne ſtill in the ſame feare as before: that is, that ſo long as the ſaide Orenge may and ſhall beare any ſway, we ſhall hardly obtayne the de<g ref="char:EOLhyphen"/>liuerie of the ſayde Lo. of <hi>Champagny.</hi>
+               </p>
+               <p>His Maieſtie hath written very ear<g ref="char:EOLhyphen"/>neſtly to my L. the prince of <hi>Parma:</hi> but it was needeleſſe, conſidering howe fa<g ref="char:EOLhyphen"/>uourably of his grace he aſſiſteth vs. God ſend vs ſhortly good newes, &amp; graunt you (my L. Prouoſt) the accompliſhment of your deſires: commending me hartily to your good remembraunce.</p>
+               <closer>
+                  <dateline>From <hi>Madrill,</hi> 
+                     <date>this <hi>19.</hi> of Aprill. <hi>1582.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <hi>Your good brother and aſſured friend.
+<pb facs="tcp:177492:3"/> 
+                        <hi>Ant. cardinall of Granuelle.</hi>
+                     </hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p>To my Lord the pouoſt of Ayre. Sir Maximilian Morillon, great Arch deacon of Malines, my good bro<g ref="char:EOLhyphen"/>ther and friend.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <salute>SIr prouoſt,</salute>
+               <p>
+                  <note place="margin">To the ſame man. April. 25. with his owne hand.</note> I haue no letter of your vnanſwered. As they write out of France the prince of Orange is yet a foote, notwithſtanding his hurt re<g ref="char:EOLhyphen"/>ceiued by a young Biſkain, who loſt his life in this worlde in the enterpriſe. God peraduenture keepeth him for an other purpoſe. <hi>Alancon</hi> triumpheth, but it will be without an Iron corſelet. <hi>Non durabit</hi> as I hope: the moneth of May is not yet paſt. I doe to my power ſollicite the ſending of ſouldiers into the Lowe Countreys, and eſpeciall go<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d prouiſion of ſiluer. I aſſure you there is no want in thee, as not reſpecting how ſmall thanke I haue of thoſe of <hi>Hazienda:</hi> ſo that may be done which belongeth to the ſeruice of God, &amp; the maſter, &amp; the benefit of y<hi rend="sup">e</hi> poore countreys. There is on al ſides great pre<g ref="char:EOLunhyphen"/>paration, as wel by ſea as by land, againſt
+<pb facs="tcp:177492:4"/> thoſe that would hurt vs, and I hope that the French can not procure y<hi rend="sup">e</hi> ariuall of y<hi rend="sup">e</hi> turkiſh armie this yere, howe arneſtly ſo euer they labor, as wel by y<hi rend="sup">e</hi> ordinary em<g ref="char:EOLhyphen"/>baſſador that is at <hi>Conſtantinople</hi> as by an expreſſe meſſenger, whom the Queen mother hath ſent by <hi>Marſeyles:</hi> bcauſe that by letters, euen lately receiued out of the eaſt, wee are aſſured that the Per<g ref="char:EOLhyphen"/>ſians haue of late giuen the Turkes a ſhrewde blowe, whiche muche trou<g ref="char:EOLhyphen"/>bleth the <hi>Conſtantinopolitaynes:</hi> be<g ref="char:EOLhyphen"/>ſides that the Turke laboureth all hee may about ſending away <hi>4000.</hi> Ianiſſa<g ref="char:EOLhyphen"/>ries, and <hi>3000</hi> Spachies: and hath com<g ref="char:EOLhyphen"/>ma<g ref="char:cmbAbbrStroke">̄</g>ded two <hi>Sangiaques</hi> to be in redines, and haſted the feaſt of the circumciſion of the ſonne, to the ende, the better to entend to the ſaide reſiſtaunce, for that all hope of agreement is paſt, alſo in the Arſenall they worke more ſlowly about the furni<g ref="char:EOLhyphen"/>ture of the nauie. I hope my Lorde the Prince, hath already deliuered you the nomination of <hi>Turney,</hi> and the deane of Saint <hi>Gaule</hi> that of Malines, and I haue written to <hi>Rome,</hi> by the former or<g ref="char:EOLhyphen"/>dinarie there to preuent, and there with
+<pb facs="tcp:177492:4"/> my Auditor M. <hi>Leander Lana,</hi> and <hi>Bli<g ref="char:EOLhyphen"/>oul,</hi> hee ſhall finde all good addreſſe. I haue alſo ſent my procuration to reſigne, &amp; by this ordinarie do hope to ſend the co<g ref="char:EOLhyphen"/>pie. Wee haue had a ſhrewde turne a<g ref="char:EOLhyphen"/>bout the Penſions leuied vpon <hi>Turney,</hi> but wee muſt for the time haue patience, and looke for remedie hereafter. I lod<g ref="char:EOLhyphen"/>ged here my Lorde of S. <hi>Vaſtz,</hi> making him the beſt cheere I coulde, he is going towardes Portingall, whether I haue written (as I am bounde) in his behalfe, as alſo in the behalfe of Secretarie <hi>Vaſ<g ref="char:EOLhyphen"/>ſeur,</hi> his father the Lord of <hi>Valhuon,</hi> and the little enfant: At the leaſt I omitte no<g ref="char:EOLhyphen"/>thing for my part that I am able to doe. My niece the La. of <hi>Aſhey</hi> writeth vnto me, that <hi>Vateuille</hi> hath exhibited a petiti<g ref="char:EOLhyphen"/>on to thoſe of the Chamber of accompts of <hi>Dole,</hi> and ſent another to the Exche<g ref="char:EOLhyphen"/>quer in the lowe Countreys, pretending a title to <hi>Verſeiles,</hi> as the recompence of the late Lorde of <hi>Peleux</hi> the father (being one of the <hi>Emperors</hi> chamber) for al his ſeruice together with the loſſe of his goods in France for the Imperial maie<g ref="char:EOLhyphen"/>ſties ſake, as alſo for hauing his two
+<pb facs="tcp:177492:5"/> ſonnes ſlayne, together with the death of my ſaide Nieces ſeconde father, who pe<g ref="char:EOLhyphen"/>riſhed in y<hi rend="sup">e</hi> battaile of <hi>Graueling,</hi> beſides ſuche conſideration as is to be had of the ſeruice of y<hi rend="sup">e</hi> late L. of <hi>Aſhey</hi> my nephew, together with his expe<g ref="char:cmbAbbrStroke">̄</g>ces in his maſters affayres This requeſt hathe ſhee ſent vn<g ref="char:EOLhyphen"/>to you with the perticulers thereto ad<g ref="char:EOLhyphen"/>ioyned: heretofore you preuented my L. the prince, ſticke now therefore to it, that at this time <hi>Verſeil</hi> may be hers, notwith<g ref="char:EOLhyphen"/>ſtanding, preſently you can not obtayne the reſt of that whereto her demaund pre<g ref="char:EOLhyphen"/>te<g ref="char:cmbAbbrStroke">̄</g>deth. Deſiring you to help her in what you well may.</p>
+               <p>I haue heretofore giuen you to vnder<g ref="char:EOLhyphen"/>ſtande, y<hi rend="sup">t</hi> the king hath giuen Don <hi>Fran<g ref="char:EOLhyphen"/>cis</hi> y<hi rend="sup">e</hi> entry of <hi>Aſpargoſſe de Lara</hi> whiche nowe is worth <hi>3500.</hi> crownes, and will hereafter be better. He hath had woorde therof ſent into Burgondy, but I know not whether they found him there. For ſome doe write that hee had altered his mind for comming hither, and that he was determined to goe to <hi>Fraunkfort</hi> to buy Horſes, and ſo to ſerue in the warres in thoſe partes, but I wotte not whether
+<pb facs="tcp:177492:5"/> this may cauſe him to take ſome other ad<g ref="char:EOLhyphen"/>uice. I had here this Eaſter his brother and his people with me: I like him well, and hee profiteth in ſtudie, I haue concei<g ref="char:EOLhyphen"/>ued a good hope of him, and he liketh his maſter, and his maſter him. A Burgo<g ref="char:EOLhyphen"/>gnion gentleman, named <hi>Monſieur</hi> of <hi>Thon</hi> goeth that way, and ſhall take ac<g ref="char:EOLhyphen"/>quainta<g ref="char:cmbAbbrStroke">̄</g>ce of you: his purpoſe as I heare is to take charge of my ſayde nephew in ſtead of the L. of <hi>Vauldrey.</hi> If you pleaſe I pray you write vnto mee your opinion, whether you thinke it conuenient. The King is gone to meete with his ſiſter the Empreſſe at <hi>Almerin,</hi> and from thence are to goe to <hi>Lisbon,</hi> wee ſhall ſee what will come of this enteruiewe.</p>
+               <p>Thus heartily commending mee to your good grace, I beſeech the creator to graunt you the accompliſhment of your deſires.</p>
+               <closer>
+                  <dateline>From <hi>Madrill</hi> 
+                     <date>this <hi>25.</hi> of April. <hi>1582.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <hi>Your good brother and aſſured friend, <hi>Ant. Cardinall of Granuelle.</hi>
+                     </hi>
+                  </signed>
+                  <pb facs="tcp:177492:6"/>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p>To my L. the prouoſt Morillon, great Archdeacon of Malines, my fellow brother and friende.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <salute>SIr counſellor, </salute>
+               <p>
+                  <note place="margin">To the cou<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ſellor of Aſ<g ref="char:EOLhyphen"/>ſonuill. The 25. of April. 1582.</note>I haue receiued your letter of the 25. of Februarie, &amp; haue very willingly giuen audience vnto my Lord, the prelate of S. <hi>Vaſtz.</hi> Hauing of<g ref="char:EOLhyphen"/>ten conferred together, he is departed in poſt towarde the king into Portingall.</p>
+               <p>His Maieſtie liketh verye well of the reſolution of the reconciled eſtates, and in mine opinion they haue laide a good foundation of change, in ſaying that their earneſt requeſt to bee rid of ſtraungers was onely vpon ſuche hope as the others miniſtred of framing the<g ref="char:cmbAbbrStroke">̄</g> ſelues to obedi<g ref="char:EOLhyphen"/>ence, if they were gone, ſeeing that the re<g ref="char:EOLhyphen"/>ſolution taken, and the ſworn treaty, was the onely ground of diſcharging them, as alſo that y<hi rend="sup">e</hi> others had ſhewed great hope of accommodating them ſelues to them, and returning to obedience after the ſaid ſtraungers departure, which neuerthe<g ref="char:EOLhyphen"/>leſſe
+<pb facs="tcp:177492:6"/> they haue not done, but do ſtil perſiſt in their obſtinacie.</p>
+               <p>The Prince of Orenges death will alter many of their minds: And the duke of <hi>Alenſon</hi> hauing none of his own peo<g ref="char:EOLhyphen"/>ple about him, may perhappes repence that he euer came ſo far. The right way were, if the inhabitants of <hi>Antwerpe</hi> for making their owne peace (conſidering that my Lorde the Prince doeth yet offer them all fauour, if they would but return and acknowledge them ſelues) woulde deteyne him priſoner, and deliuer him in<g ref="char:EOLhyphen"/>to his Maieſties handes, to the ende hee might reward him as he deſerueth. I ſoli<g ref="char:EOLhyphen"/>cite ſo much as poſſibly I may the ſpeedy ſending of men &amp; money, whiche I hope will bee done: the men do already march, and dealing for money goeth forwarde: I hope God will aſſiſt vs notwithſtan<g ref="char:EOLhyphen"/>ding, whatſoeuer hindra<g ref="char:cmbAbbrStroke">̄</g>ces they procure vs. He is aboue all, and the redier he will be to helpe vs, if we helpe our ſel<g ref="char:EOLhyphen"/>ues, as ſurely for the finall wading tho<g ref="char:EOLhyphen"/>rowe ſo many miſeries, we muſt. Con<g ref="char:EOLhyphen"/>cerning your perticular parſon, Secre<g ref="char:EOLhyphen"/>tarie <hi>Lalloo</hi> may very well teſtifie, that
+<pb facs="tcp:177492:7"/> I haue done ſo much as you can require. Alſo by Spaniſhe letters which I haue written to his Maieſtie with my owne hande. God graunt you may as I deſire reape ſome fruite. And this I aſſure you: My Lorde the Prince hath as ear<g ref="char:EOLhyphen"/>neſtly commended you as is poſſible.</p>
+               <p>Thus hartily commending me to your good remembraunce, I beſeech the crea<g ref="char:EOLhyphen"/>tor (ſir Counſaylor) to graunt you your deſires.</p>
+               <closer>
+                  <dateline>From <hi>Madrill</hi> 
+                     <date>this 15. of Aprill. 1582.</date>
+                  </dateline>
+                  <signed>Your good Goſſip and friende Ant. Cardinall of Granuelle.</signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p>To my L. of Aſſonuille counſellour, and one of his Maieſties priuie counſell in the Lowe countreys.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <salute>MAdam, </salute>
+               <p>
+                  <note place="margin">To the Dut<g ref="char:EOLhyphen"/>ches of Par<g ref="char:EOLhyphen"/>ma the 27. of April. 1582. with his owne hande.</note> I haue anſwered al your highnes letters that came to my hande, and doe very deſirouſly attende newes from thence of your highneſſe perfect recouerie, to the ende, to be eaſed of my care in y<hi rend="sup">t</hi> by the laſt I hearde that the goute had not yet per<g ref="char:EOLhyphen"/>fectly left you. God for his mercie ſende
+<pb facs="tcp:177492:7"/> me ſhortly good tydinges. The letters which lately we haue had out of England putteth vs in hope that wee be deliuered of the Prince of Orenge, ſith the 14. day after his hurt (as they write thence) there was no more hope of his life, and the Q. of Englande was duely aduertized from time to time of the ſtate of his hurt. They ſay moreouer, that he hath been grieuouſ<g ref="char:EOLhyphen"/>ly tormented as well with the payne of his wound, as alſo, with the payne that he hath bin put to, partly by ſuch incitions, as the ſurgions haue made to come to the bottom of the hurt, &amp; partly by cauteries of towe for ſtopping of the blood: which yet they could not atteyne. It is pitie hee died not long ſince, together with a great number of his faction, namely. <hi>S. Alde<g ref="char:EOLhyphen"/>gonde.</hi> His death wil bread great altera<g ref="char:EOLhyphen"/>tions as is moſt like, &amp; we loke for news of what haue ſince happened, and what courſe matters haue taken. We heare that the duke of <hi>Anieow</hi> hath ſent the P. <hi>Daulphin</hi> to the king of France for ſuc<g ref="char:EOLhyphen"/>cour, we ſhall ſee what will come of it. I wot not what breach of war we look for, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th the <hi>D.</hi> of <hi>Anicow</hi> doth al by y<hi rend="sup">e</hi> know<g ref="char:EOLhyphen"/>ledge,
+<pb facs="tcp:177492:8"/> conſent and aſſiſtance of his ſaid brother, as alſo he helpeth the Queen his mother, who openly ioyneth with <hi>Don Antonie</hi> to make warre againſt vs. It is euident they woulde doe more if they could. But we can haue no helpe of our power, ney<g ref="char:EOLhyphen"/>ther knowe it, or conſider in what ſtate thoſe bee that doe on all ſides diſquiet vs, yea ſo farre as by procuring the diſcente of the Turkes armie, who I ſuppoſe ve<g ref="char:EOLhyphen"/>rily woulde come, in cace the Perſian warre, which yet continueth, did not let him, as hauing lately on that ſide had an ouerthrow of his people, wherevpon, ac<g ref="char:EOLhyphen"/>cording to the laſt newes, <hi>Conſtantino<g ref="char:EOLhyphen"/>ple</hi> was much troubled, and the ſayde Turke hath ſent into his frontiers newe reliefe of two <hi>Sangiaques,</hi> with 4000. <hi>Ianiſſaries,</hi> and 3000 <hi>Spachies,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding they giue out that they doe at<g ref="char:EOLhyphen"/>tende an embaſſadour out of Perſia, who ſhoulde bring the conditions of peace, whiche I hope is but a voice to deceiue them, and that he hath to doe with a peo<g ref="char:EOLhyphen"/>ple that doe fight in running away.</p>
+               <p>My Lord of S. <hi>Vaſtz</hi> went this way, and by poſte continueth his iourney to<g ref="char:EOLhyphen"/>warde
+<pb facs="tcp:177492:8"/> the king, who is nowe at <hi>Almerin</hi> whether he went to meete the Empreſſe, and my Lorde the <hi>Archduke</hi> Cardinall is gone to receiue her vpon the confines of the kingdome. The ſaide Abbot of S. <hi>Vaſtz</hi> ſeemeth a wary man, and ſuche a one as can yeelde good accompte of the ſtate of the Lowe Countreys. I enter<g ref="char:EOLhyphen"/>tayned him very well, and haue commen<g ref="char:EOLhyphen"/>ded him in the court, to the ende they may ſo vſe him, that hee may returne well ſa<g ref="char:EOLhyphen"/>tiſfied. I am well aſſured that for his part he wil ſollicite the ſending of ſouldi<g ref="char:EOLhyphen"/>ers and money for the pay: whereabout I haue laboured theſe two monethes, cal<g ref="char:EOLhyphen"/>ling vpon it ſo much as I might. And alreadie we haue worde from Sicill and Naples, that the power that ſhould come thence, will marche very ſhortly, ſo to ioyne with Don <hi>Ferdinand</hi> of <hi>Tolete,</hi> who is yet in the Neapolitayn gallies at <hi>Calibry,</hi> while Don <hi>Ihon</hi> of <hi>Cardoa,</hi> at<g ref="char:EOLhyphen"/>tendeth conuenient tyme to paſſe the gulfe: and in troth, he is very ſlacke. So as the Countie <hi>Oliuares,</hi> who is in the ſame gallies, is not yet gotten to <hi>Rome,</hi> to the great preiudice of the affayres: not<g ref="char:EOLhyphen"/>withſtanding
+<pb facs="tcp:177492:9"/> his Holineſſe hath already graunted the ſubſidy, which he hath ſtai<g ref="char:EOLhyphen"/>ed theſe three yeeres full vnder colour of the abſtinence of warre, which <hi>Iohn</hi> of <hi>Marliano</hi> had co<g ref="char:cmbAbbrStroke">̄</g>cluded with the Turke. I doe within theſe two dayes looke for the Prince <hi>Iohn Andrew Dorye,</hi> who returneth toward Italy with his Gal<g ref="char:EOLhyphen"/>leyes, and the Duke of <hi>Oſſuna</hi> goeth with him, who, as your highneſſe maye haue heard, goeth as <hi>Viceroy</hi> to <hi>Naples.</hi> His Maieſtie and all his blood thanked be God, are in good health, and we waite what reſolution they wil take after their Maieſties haue beene together, who are to returne from <hi>Almarin</hi> to <hi>Liſbon,</hi> where (if I be not deceiued) the Kinge hath yet enough to do: for concerning iu<g ref="char:EOLhyphen"/>ſtice, gouernment, treaſurie, and ſuche like concerning ſurety, I ſee nothing yet done to my lyking: beſides that, I wote not how his Maieſtie can without daun<g ref="char:EOLhyphen"/>ger leaue the Realme of Portingale. Our Nauy is prouiding, but ſlowly ac<g ref="char:EOLhyphen"/>cording to cuſtome, ſo as if wa<g ref="char:cmbAbbrStroke">̄</g>t of monie had not hindred <hi>Don Anthony</hi> &amp; the Q. Mother of Fra<g ref="char:cmbAbbrStroke">̄</g>ce, they had by this pre<g ref="char:EOLhyphen"/>ue<g ref="char:cmbAbbrStroke">̄</g>ted
+<pb facs="tcp:177492:9"/> vs. The feare of the Turkes army hath cauſed the leuie of 6000. Almaines in <hi>Tirol,</hi> who are to take ſhipping at <hi>Spe<g ref="char:EOLhyphen"/>tie:</hi> but if the Turks armie commeth not, yet ſhall we not want place where to vſe them, if I may be beleeued. It is doubted whether the enterpriſe of <hi>Tercera</hi> ſhalbe executed this yeere, or whether they take any other order. God put into his Maie<g ref="char:EOLhyphen"/>ſties hart, that that may be for the beſt. It is ſtill ſaid, that the Imperiall diet ſhalbe holde<g ref="char:cmbAbbrStroke">̄</g> at <hi>Auſpburg,</hi> but I ca<g ref="char:cmbAbbrStroke">̄</g>not thinke it, it began vpon Sunday laſt, notwithſtan<g ref="char:EOLhyphen"/>ding the purport of y<hi rend="sup">e</hi> letters of conuoca<g ref="char:EOLhyphen"/>tion. I ſuppoſe my L. the prince hath ſent out of the lowe Countreys ſome one to ſupplie the place for the circuite of <hi>Bur<g ref="char:EOLhyphen"/>gondie:</hi> at the leaſt, I gaue knowledge of it at the Court a good while ſince, to the ende therevpon to write to him what was beſte, together with my opinion.</p>
+               <p>Your highneſſe may haue heard howe it hath pleaſed his Maieſtie to nominate to the Biſhoppricke of <hi>Turney Moril<g ref="char:EOLhyphen"/>lon,</hi> Prouoſt of <hi>Ayre.</hi> Alſo that I haue graunted to diſcharge my ſelfe of the
+<pb facs="tcp:177492:10"/> Archbiſhopricke of <hi>Malines,</hi> as that I can not be there reſident, nominating thereto M. Iohn of <hi>Auchin,</hi> deane of S. <hi>Gaule</hi> my officiall, who vnder the ſaide prouoſt of <hi>Morillon</hi> hath gouerned the ſayd Archbiſhopricke many yeeres. The fauour which it pleaſed your highnes to extend toward the ſaid <hi>Morillon</hi> in teſti<g ref="char:EOLhyphen"/>fiyng ſo wel of him to his Maieſtie, for y<hi rend="sup">e</hi> which I moſt humbly and hartily thanke you, together with the commendation of my ſayde Lorde Prince haue bin a good helpe to him herein, and certaynely I hope that of y<hi rend="sup">e</hi> choyſe which his Maieſtie haue made of theſe two perſons, hee ſhall be well ſerued, and that when your high<g ref="char:EOLhyphen"/>neſſe ſhall knowe the ſaide deane, your ſelfe will bee of the ſame opinion. It is aboue fifteene yeeres ſince I firſt ſued to his Maieſtie to diſcharge mee of the ſaid Church of <hi>Mallines,</hi> which as your high<g ref="char:EOLhyphen"/>neſſe knoweth I accepted full euill a<g ref="char:EOLhyphen"/>gainſt my will. For I ſufficiently did foreſee what woulde enſue, as that by my abſence his Maieſtie coulde not reape the fruites whereto he pretended by vniting the Abbaies vnto the Byſhoprickes, whi<g ref="char:EOLhyphen"/>che
+<pb facs="tcp:177492:10"/> he did, to the end, the Biſhops might haue ſome ouerſight in dealing with the ſtates of Brabant, for withſtanding the prince of Orenge, and other of his facti<g ref="char:EOLhyphen"/>on, that troubled the affayres: and the bet<g ref="char:EOLhyphen"/>ter to trayne the Abbots, who beeing a<g ref="char:EOLhyphen"/>buſed by the ſaide Prince of Orenge, haue giuen him opportunitie to hurt both them ſelues and the reſt. As for Iohn of <hi>Sermillan,</hi> in whoſe behalfe your high<g ref="char:EOLhyphen"/>neſſe haue written, concerning the Abey of <hi>Dane</hi> in your letter, dated the 17. of Februarie, I haue alreadie written to Prouoſt <hi>Foncq,</hi> who hath returned me an anſwere that it is alreadie beſto<g ref="char:EOLhyphen"/>wed, I wote not on whom, without ma<g ref="char:EOLhyphen"/>king his Maieſtie priuie thereto, whiche he imputeth to the Counſaylor of <hi>Aſſon<g ref="char:EOLhyphen"/>uille,</hi> ſo that if it be beſtowed, ther is no more to ſay. I ſee no other matter at this time woorth the troubling of your highneſſe, then you vnderſtande by my former.</p>
+               <p>Finally, moſt humbly and heartilye commending me to your highneſſe good grace, I beſeech the creator, to ſende you a good, and long life.</p>
+               <pb facs="tcp:177492:11"/>
+               <closer>
+                  <dateline>From <hi>Madrill,</hi> 
+                     <date>this 27. of Aprill. 1582.</date>
+                  </dateline>
+                  <signed>Your highneſſe moſte humble and bounden ſeruant. Ant. Cardinall of Granuelle.</signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p>To my Lady, to her highneſſe owne handes.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Moſt noble and moſt excellent Lorde, right honourable.</salute>
+               </opener>
+               <p>
+                  <note place="margin">To y<hi rend="sup">e</hi> prince of Parma.</note>
+                  <hi>I</hi> Haue anſwered all your excellencies letters, and ſince the blowe giuen to the Prince of Orenge here haue commen none of your newes. By Englande wee haue perticularly hearde the whole ſuc<g ref="char:EOLhyphen"/>ceſſe of his hurt, in that this Queenes a<g ref="char:EOLhyphen"/>gences remaining in <hi>Antwerpe,</hi> haue bin diligent in giuing daily notice of all that haue been incident to his hurt: and (as we haue there learned) he liued for the ſpace of 14. dayes after the blowe in vehement torments, by reaſon as well of the griefe of his wounde, as alſo by the Anatomie
+<pb facs="tcp:177492:11"/> which the Surgeons made by inciſions, as if it had been in dead fleſh, for the ſear<g ref="char:EOLhyphen"/>ching thereof, and ſeeking to helpe it: al<g ref="char:EOLhyphen"/>ſo by moleſting him with fierye Caute<g ref="char:EOLhyphen"/>ries, endeuoring to ſtop the vaine, which they coulde not bring to paſſe: farther, that the 14. day he was in ſuch caſe, as euen his owne familiars were paſt hope of life. There is no ſpeech in what ſtate the affaires of <hi>Antwerpe</hi> remayned all the while, ſauing that <hi>Alencon</hi> oft viſited him, and that he made a ſhort will. It can not poſſibly be, but that this happe will breede great alterations. God graunt it be to our benefite.</p>
+               <p>His Maieſtie truſteth, that your excel<g ref="char:EOLhyphen"/>lencie will withou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fayle helpe by all means poſſible to procure ſome good ef<g ref="char:EOLhyphen"/>fect, by vſing ſuch meanes (as you were determined) with the inhabitants of <hi>Ant<g ref="char:EOLhyphen"/>werpe</hi> and other townes, offering vnto them (notwithſtanding whatſoeuer their former committed offences) all pardon and curteſie, in caſe they will reclayme themſelues: as alſo that you will not omitte what ſo euer occaſion, to bee
+<pb facs="tcp:177492:12"/> dooyng ſomewhat with ſuche ſmall force as you haue, if opportunitie may ſerue. All ſending of ſpeedy ſuccour is dayly called vpon, and alreadie out of <hi>Naples, Sicilie,</hi> and <hi>Millan.</hi> We heare that men bee prouiding, farther, that the Horſemen that were at <hi>Naples</hi> ſhoulde preſently march to <hi>Millan.</hi> The regi<g ref="char:EOLhyphen"/>ment of don <hi>Ferdinando</hi> of <hi>Tolete</hi> (whi<g ref="char:EOLhyphen"/>che as I write vnto you ſhall not go with the other troupe, but rather <hi>Peter</hi> of <hi>Paz</hi>) was yet at <hi>Colibre</hi> the 20. of this moneth, through the vnreaſonable flack<g ref="char:EOLhyphen"/>neſſe of Don <hi>Iohn</hi> of <hi>Cardoua,</hi> who ſee<g ref="char:EOLhyphen"/>keth to ſayle ſo ſure. The prouiſion of 40000. crowns appointed for victualing in <hi>Sauoy,</hi> are alreadie in the handes of <hi>Sanctius</hi> of <hi>Padilia.</hi> Alſo for feare of the turkiſh armie, there are 6000. Almaines leuied, and ſhall take ſhipping at <hi>Spetie:</hi> which (this feare paſt) may ſerue ſome o<g ref="char:EOLhyphen"/>ther where, to whiche ende, there are 76000. crownes already ſent. I doe by al meanes poſſible, call vpon the prouiſi<g ref="char:EOLhyphen"/>on of coyne, as I haue already written, which as I hope will be with profite.</p>
+               <p>
+                  <hi>Don Antony,</hi> being openly aſſiſted
+<pb facs="tcp:177492:12"/> by the Q. mother, threatneth to departe towarde the coaſt of Portingall, and the<g ref="char:cmbAbbrStroke">̄</g>ce to the Ile of <hi>Terecra,</hi> and the <hi>Indi<g ref="char:EOLhyphen"/>es,</hi> in the beginning of May. Our armie is prouiding more ſlowly then I coulde wiſhe. I haue alreadie twiſe written to his Maieſtie.</p>
+               <p>And I aſſure my ſelfe, your excel<g ref="char:EOLhyphen"/>lencie ſhall ſhortely haue aunſwere.<note place="margin">Al this writ<g ref="char:EOLhyphen"/>ten in Cy<g ref="char:EOLhyphen"/>phres. Cyphres.</note> I woulde it were alreadie done, and might no longer hange in ſuſpence, and haue beſought his Maieſtie.</p>
+               <p>The embaſſadour <hi>Iohn Babtiſta,</hi> af<g ref="char:EOLhyphen"/>firmeth that <hi>Orendge</hi> remayned the 14. day paſt hope of life. Others that come by ſea, thinke him alreadie dead. The <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aide <hi>Iohn Babtiſta,</hi> ſaith moreouer, that <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he prince Daulphine was gone to the French Court, there to ſollicite the bro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her to ſende ayde: yea and that with hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peeches I wot not wherefore: for I am <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f that opinion, that <hi>Alenſon</hi> doeth no<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing but what the mother and brother <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill. I beſeech your excellencie, for a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>yding the ſpoyle of the Countrey of
+<pb facs="tcp:177492:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:177492:13"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:177492:14"/> 
+                  <hi>Burgondy,</hi> to cauſe the Infanterie and Horſemen that are leuied in theſe Coun<g ref="char:EOLhyphen"/>treys, to march with all ſpeede that may be towards Flanders, otherwiſe they wil ſpoyle all. Beſides, if the French ſhoulde come, they will ſerue as ſouldiers vſe to doe in their owne houſes, and therefore I am ſtill of that minde, that for the ſafe<g ref="char:EOLhyphen"/>tie of that countrey, 2000. Switzers were very requiſite, who beeing retey<g ref="char:EOLhyphen"/>ned, vntill the power that is to paſſe ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Italy</hi> be come, might then be friendly diſmiſſed with full payment, to the ende, ſtill to haue them readye as neede might require. And therefore conſidering the harme that thoſe of the countrey do com<g ref="char:EOLhyphen"/>mit, this way woulde be the cheaper.</p>
+               <p>The Prince <hi>Iohn Andrew Dory</hi> is not yet arriued here, but I looke for him within three or foure dayes at the far<g ref="char:EOLhyphen"/>theſt.</p>
+               <p>The Duke of <hi>Oſſuna,</hi> is yet a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pegnafiel:</hi> It is enough that we may ſay that hee is onwarde of his way: fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> certaynely hee will make haſts: for i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hee tarrie long, I am perſwaded tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:177492:14"/> the Prince <hi>Dorie</hi> will not ſtay for him, whereby hee maye remayne in <hi>Bar<g ref="char:EOLhyphen"/>celone</hi> longer then willinglye hee woulde.</p>
+               <p>His Maieſtie is at <hi>Almerine,</hi> where the moſte Noble Empreſſe is to arriue the firſte day of May, or peraduenture ſooner.</p>
+               <p>Wee ſhall ſee what greate matters will enſue after this enteruiewe of the brother and ſiſter. Farther, if I bee not deceyued, there is yet enough to doe in Portingalle before his Maieſtie can departe, in cace he will leaue all things in ſafetie: for that in trothe, there is muche leſſe done then I coulde well wiſhe, as well concerning Iuſtice, and P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llicie, as any other taking of or<g ref="char:EOLhyphen"/>der in the affayres.</p>
+               <p>His holynes hath graunted the ſub<g ref="char:EOLhyphen"/>ſidie towarde the mainteynaunce of the Gallies. Alſo there is newes freſhely come from <hi>Conſtantinople,</hi> importing that the Turke hath lately receyued ſome newe ſoyle aboute the borders of <hi>Perſia,</hi> wherevpon <hi>Conſtantinople</hi> was
+<pb facs="tcp:177492:15"/> in ſome care or heauineſſe.</p>
+               <p>They haſten the feaſt of the circum<g ref="char:EOLhyphen"/>ciſion of the ſonne, to the ende, to gather ſome coin which wanted. And the Turke hath ſent a ſupply of 4000. <hi>Ianiſſares,</hi> and 3000. <hi>Spachles:</hi> beſides that he hath made two of his <hi>Sangiaques</hi> to marche with their power. For that many feared leaſt the ſpeeche rayſed, that the <hi>Perſian</hi> ſought for peace or truce, is but diſſimu<g ref="char:EOLhyphen"/>lacion. So as wee hope, that notwith<g ref="char:EOLhyphen"/>ſtanding the French ſoliclting, the Tur<g ref="char:EOLhyphen"/>kiſh armie yet it wil not come otherwiſe that it well be very ſmall: but thereof we haue as yet no certaintie.</p>
+               <p>Your excellencie may haue heard of the peace concluded betweene the <hi>Pola<g ref="char:EOLhyphen"/>que</hi> and the <hi>Muſcouite</hi> for 10. yeeres. Alſo from <hi>Armue,</hi> we haue by land heard good newes, that the Portingales haue there ouerthrowen many people of thoſe quarters which purpoſed to haue hurt them, and that they remayned in his Ma<g ref="char:EOLhyphen"/>ieſties obedience.</p>
+               <p>The Abbot of S. <hi>Vaſtz</hi> hath been heere: I haue procured him good enter<g ref="char:EOLhyphen"/>tainement:
+<pb facs="tcp:177492:15"/> hee proceedeth on his iourney in poſt, and ſeemeth to bee a meete and ſeruiceable perſon. I haue prouided him of what ſo euer I haue thought might turne to his good entertaynement and cheriſhing, &amp; haue not omitted to breake my mind to him concerning my opinion in matters, to the ende he might the bet<g ref="char:EOLhyphen"/>ter deale. I thinke certainely, that be<g ref="char:EOLhyphen"/>ſides the letters which your excellencie haue receyued of <hi>Don Guillen</hi> of Saint <hi>Clement,</hi> you haue alſo had letters out of Portingall, touching y<hi rend="sup">e</hi> affaires of the Imperiall diet, wherein I referre my ſelfe, as hauing afore written my opinion at large.</p>
+               <p>God keepe and preſerue your excel<g ref="char:EOLhyphen"/>lencie, graunting you good ſucceſſe in all your endeuors and enterpriſes.</p>
+               <closer>
+                  <dateline>From <hi>Madrill</hi> 
+                     <date>this 26. of Apryll. 1582.</date>
+                  </dateline> Vnderneath was written.
+<signed>
+                     <hi>Of your excellencie. The moſt affectionate ſeruant. Ant.
+<pb facs="tcp:177492:16"/> Cardinall of Granuelle.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p>To the moſt noble and excellent Lord my right honourable L. the Prince of Parma, gouernour and captaine generall for his Maieſtie in the lowe Cou<g ref="char:cmbAbbrStroke">̄</g>treys, of Flau<g ref="char:cmbAbbrStroke">̄</g>ders &amp; Burgundy.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <p>
+                  <note place="margin">To the Mar<g ref="char:EOLhyphen"/>quiſe of Rou<g ref="char:EOLunhyphen"/>baisthe 16. of April. 1582.</note>MY L. the Prelate of S. <hi>Vaſtz,</hi> who arriued here this day, deliuered me your letter of the 19. of February. I haue already by ſundry my L. the P. writings to his Maieſtie, heard of the holy reſolu<g ref="char:EOLhyphen"/>tion taken by y<hi rend="sup">e</hi> eſtates. Alſo that at your ſolliciting &amp; by y<hi rend="sup">e</hi> whiche ſo fitly you pro<g ref="char:EOLhyphen"/>pounded, together with your endeuors ſo wel acco<g ref="char:cmbAbbrStroke">̄</g>modated, what you by my L. and my L. preſident, w<hi rend="sup">t</hi> others of your ſetting on worke, haue bin done. The inhabita<g ref="char:cmbAbbrStroke">̄</g>ts of <hi>Artoiſe</hi> haue trode the path to the reſt, wherof may redounde great benefite to al the countrey, for y<hi rend="sup">e</hi> relleuing the<g ref="char:cmbAbbrStroke">̄</g> at length out of ſo many miſeries. &amp; you ſhal before theſe letters come to your ha<g ref="char:cmbAbbrStroke">̄</g>ds, haue no<g ref="char:EOLhyphen"/>tice of his maieſties liking of y<hi rend="sup">e</hi> ſaid reſo<g ref="char:EOLhyphen"/>lution, together w<hi rend="sup">t</hi> thoſe y<hi rend="sup">t</hi> haue traueyled therin: aſſuring you y<hi rend="sup">t</hi> I haue not, nor doe not omit any meanes in haſtening your
+<pb facs="tcp:177492:16"/> ſuccour &amp; furniture of coyne. And beſides the 400000 crownes mentioned in your letter, there is meanes made for 300000 more. I haue done my endeuour to pro<g ref="char:EOLhyphen"/>cure the ſetting downe of an aſſured mo<g ref="char:EOLhyphen"/>nethly ſumme, whiche ſhoulde not bee ſlacked: but there is more to do in finding the meanes, then in wiſhing the doing of it. It is ſtil in hand, but I dare not put you in any aſſured hope before I ſee the de<g ref="char:EOLhyphen"/>uiſe in a better forwardneſſe: at the leaſt, I aſſure you, there is no want in mee, and well I may ſay, that I do all that I may.</p>
+               <p>As for ſuch ſouldiers as appeare at the mouſtre, &amp; ordinarily in following their ba<g ref="char:cmbAbbrStroke">̄</g>ners, or whe<g ref="char:cmbAbbrStroke">̄</g> they come to ha<g ref="char:cmbAbbrStroke">̄</g>dy blows, are abſent<g ref="char:punc">▪</g> that is an ordinarie diſeaſe, eſpecially among ſuche ſouldiers, as are in their owne countreys. I dare ſay the faule is not in you, and what ſoeuer com<g ref="char:EOLhyphen"/>meth to your notice, you would willing<g ref="char:EOLhyphen"/>ly redreſſe: for beſides the reſpect y<hi rend="sup">t</hi> ought to be had to the maſters ſeruice, by ſuche meanes you venture your owne parſon, together with other captaines in great daunger. For weening to haue your nu<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ber of enrouled ſouldiers, for want there<g ref="char:EOLhyphen"/>of
+<pb facs="tcp:177492:17"/> you are the weaker before your enimie, which may procure ſuch daunger as you may eaſily comprehende.</p>
+               <p>I neuer ſawe the ſaide Prouoſt of S. <hi>Vaſtz</hi> before: but hauing conferred with him, beſides the teſtimonie w<hi rend="sup">t</hi> his works already doe giue, he ſeemeth in my opini<g ref="char:EOLhyphen"/>on, a very ſeruiceable perſon. He ſhal pro<g ref="char:EOLhyphen"/>céede on his iourney to his Maieſtie, where hee ſhall finde part of that he hath in charge in a good forwardneſſe, by meanes of ſuch diligence as haue been v<g ref="char:EOLhyphen"/>ſed. I am to thanke you for ſuch curteous offers, as it pleaſeth you by your letter to make vnto mee: and for my part, for re<g ref="char:EOLhyphen"/>quitall thereof, you ſhall alwayes finde mee ready, and willing to do for you (as occaſion ſhall ſerue) whatſoeuer I may.</p>
+               <p>Finally, moſt hartily commending mee to your good grace, I beſeeche the Creator, my L. to graunt you the accom<g ref="char:EOLhyphen"/>pliſhment of your deſires.</p>
+               <closer>
+                  <dateline>From <hi>Madrill</hi> 
+                     <date>this 16. of Aprill. 1582.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Wholy ready to do you ſeruice.
+<pb facs="tcp:177492:17"/> Ant. cardinall of Granuelle.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p> To my L. my L. Marquiſe of Roubais, Gouernour of Artoys and Heſdin.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <p>MY Lorde the Prelate of Saint <hi>Vaſtz</hi> hath deliuered your letter of the laſt ſaue one of February.<note place="margin">To the L. of Montigny.</note> In troth ſuch are your deſertes, in that you haue ſo nobly imployed your ſelfe in his Ma<g ref="char:EOLhyphen"/>ieſties ſeruice, that your ſelfe neede not to ſpeake thereof, as being a thing mani<g ref="char:EOLhyphen"/>feſt, whereof his Maieſtie is ſufficiently enfourmed, aſſuring you that notwith<g ref="char:EOLhyphen"/>ſtanding it was needleſſe: yet I failed not to put him in minde vpon euery occaſion. And I perceiue he liketh you well, and eſteemeth of your valiancie, and of that you haue vppon euery opportunitie that haue been offered, ſo nobly and ſo often employed your owne perſon with ſuche manhood and honour: whereby I hope that his ſaide Maieſtie will omitte no oc<g ref="char:EOLhyphen"/>caſion, to let you vnderſtande what ac<g ref="char:EOLhyphen"/>coumpt hee maketh of you: alſo what cur<g ref="char:EOLunhyphen"/>teſie
+<pb facs="tcp:177492:18"/> you are to hope for of his greatneſſe and liberalty. As for the charges of Flan<g ref="char:EOLhyphen"/>ders, I perceiue not that his Maieſtie doeth yet goe about to take any reſolu<g ref="char:EOLhyphen"/>tion: beſides you know (ſir) in what ſtate Flanders matters doe yet ſtande, howe<g ref="char:EOLhyphen"/>beit I hope that if you haue not yet heard of it, you ſhall ſhortly by my Lorde the prince vnderſtande, that he is carefull in employing you honourably. And I can aſſure you, that the good will whiche I haue perceiued in his Maieſtie towarde you is ſuch, that in my opinion, you can not wiſhe it better. I am heere as you knowe farre from him, at the leaſt twelue dayes iourneys off, and therefore can doe nothing but by letters, which can not al<g ref="char:EOLhyphen"/>wayes watch their times ſo as thoſe that are preſent had neede to renewe the con<g ref="char:EOLhyphen"/>tents of the letters, and I hope that my Lorde preſident <hi>Foncq,</hi> who nowe is there, through whoſe handes alſo the af<g ref="char:EOLhyphen"/>fayres of the lowe Countreys doe paſſe, &amp; who in my opinion liketh you wel, wil not faile to do whatſoeuer to your behoof hee may poſſible, as alſo I aſſure you, that for my part what ſo euer in me lieth,
+<pb facs="tcp:177492:18"/> you ſhalbe remembred with all good and aſſured affection. Wherevpon for an end hereof. I commende mee to your good grace, beſeeching the Creator, to graunt you the accompliſhment of your deſires.</p>
+               <closer>
+                  <dateline>From <hi>Madrill</hi> 
+                     <date>this <hi>16.</hi> of April. <hi>1582.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <hi>Your perfect friend to do you ſeruice. <hi>Ant. Cardinall of Granuelle.</hi>
+                     </hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p> To my Lord the Lorde of Monti<g ref="char:EOLhyphen"/>gnye.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>SIr,</salute>
+               </opener>
+               <p>
+                  <note place="margin">To the L. of Capres.</note> the Lord of S. <hi>Vaſtz</hi> arriuinge heere in good helth this preſent daye, gaue me cauſe of great contentation, in that by him I vnderſtood perticularlye, beſides what before I knewe, the ende<g ref="char:EOLhyphen"/>uors which your ſelf together with other Lordes haue vſed for the common wealth of the countrey, vpholding the religion, and his Maieſties ſeruice, wherein in troth, your deſert is great: and I doe e<g ref="char:EOLhyphen"/>ſpecially wiſhe that his Maieſtie may ef<g ref="char:EOLhyphen"/>fectually
+<pb facs="tcp:177492:19"/> (as occaſion may ſerue) declare how well he liketh thereof. For my part, I will not fayle, but willingly teſtifie vn<g ref="char:EOLhyphen"/>to his Maieſtie, and ſo farre rehearſe the ſame alwayes as time may ſerue, to the ende my endeuors may one day yeelde ſuch fruits as may turne to your full con<g ref="char:EOLhyphen"/>tentation, wherein you ſhall alwayes find me readie, as alſo in whatſo euer els I may, to doe you pleaſure and ſeruice.</p>
+               <p>Finally, moſt heartily commending my ſelfe vnto your good grace, I beſeech the creator, graunt to you the acco<g ref="char:cmbAbbrStroke">̄</g>pliſhment of your deſires.</p>
+               <closer>
+                  <dateline>From <hi>Madrill</hi> 
+                     <date>this 16. of Aprill, 1582.</date>
+                  </dateline>
+                  <signed>Your good friende to vſe. Ant. Cardinall of Granuelle.</signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p> To my L. my Lorde the Earle of Hen<g ref="char:EOLhyphen"/>ninlietart, L. of Capres.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:177492:19"/>
+               <opener>
+                  <salute>MY Lorde of <hi>Gongnies,</hi>
+                  </salute>
+               </opener>
+               <p>
+                  <note place="margin">To the L. of Gongnies.</note> the Prelate of Saint <hi>Vaſtz</hi> hath deliuered mee your letter, dated the 22. of Februarie.</p>
+               <p>The goodwill and loue which heretofore I haue offered vnto you, is not onely not diminiſhed: but rather dayly encr<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſeth, vnderſtanding the duty, w<hi rend="sup">t</hi> in what you may, you do vſe toward y<hi rend="sup">e</hi> vpholding of religion, &amp; his Maieſties ſeruice: as alſo by reaſon of ſuch good will, as you haue borne towarde me, and doe nowe againe offer. Neyther haue I omitted often to teſtifie your deſertes, and ſtill will be rea<g ref="char:EOLhyphen"/>die vpon all occaſions to renew the ſame, and will ſende vnto my Lord the prouoſt <hi>Foncq</hi> your requeſt, to the ende he may make report thereof to his Maieſtie, into whoſe handes, the ſame which you procu<g ref="char:EOLhyphen"/>red to bee exhibited, whereof this y<hi rend="sup">t</hi> nowe you ſende mee, is the copie, may by this time be deliuered: deſiring him to put his Maieſtie in minde of my former ſuite which willingly I will renewe, earneſt<g ref="char:EOLhyphen"/>ly wiſhing him to take ſuch order therin, as may be to your full contentation.</p>
+               <p>Thus moſt hartily commending my ſelf to your good reme<g ref="char:cmbAbbrStroke">̄</g>bra<g ref="char:cmbAbbrStroke">̄</g>ce, I beſech the Creator,
+<pb facs="tcp:177492:20"/> to graunt you your deſires.</p>
+               <closer>
+                  <dateline>From <hi>Madrill</hi> 
+                     <date>this 16. of Aprill, 1582.</date>
+                  </dateline>
+                  <signed>Your good friende, Ant. Cardinall of Granuelle.</signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p> To my L. the L. of Gongnies.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>MY L. treſorer generall,</salute>
+               </opener>
+               <p>
+                  <note place="margin">To Treſorer Stercke.</note> y<hi rend="sup">e</hi> prelate of S. <hi>Vaſtz,</hi> ariuing here this day, haue among others deliuered me your letters, bearing date the 15. of Februarie: by the contents whereof I gladly vnderſtoode that his Maieſties grant, ſigned with his owne hande for confirming you in your eſtate, was made to your liking. The te<g ref="char:EOLhyphen"/>ſtimonie of your loyall ſeruice is due vn<g ref="char:EOLhyphen"/>to your woorkes, in that continually you haue ſo well employed your ſelfe: &amp; I am very glad that your age and diſpoſition can beare it, ſo well to tende dayly to the maſters affaires, which (conſidering in what ſtate they nowe remayne) doe neede ſome great aſſiſtance. I heartily thanke you for your offer, which at the requeſt of my L. the prouoſt of <hi>Ayre</hi> you made to aſſiſt my pretence, for the payment of my wages and pentions, that haue ſo many
+<pb facs="tcp:177492:20"/> yeeres bin due: and I perceiue you know that I haue great reaſon, and that I haue borne my ſelfe modeſtly in vſing no im<g ref="char:EOLhyphen"/>portunacie: notwithſtanding, I haue ſo long ſtayed. But the loſſes which on all ſides I haue ſuſteined, together with my expences in my iourneys for our maſters ſeruice, as alſo my ſeruing purely, and w<hi rend="sup">t</hi> out intereſt, do nowe force mee to be ear<g ref="char:EOLhyphen"/>neſt. By the ſaid prouoſt of <hi>Ayres</hi> letters I vnderſtand, that by your good furthe<g ref="char:EOLhyphen"/>raunce the matter draweth to ſome ende, that at the leaſte I may bee relieued with ſome good portion, eyther in <hi>Burgondy</hi> or els where, for the w<hi rend="sup">c</hi> I heartily thanke you: as alſo of the aſſuraunce that you make mee of your good will, toge<g ref="char:EOLhyphen"/>ther with my Lords your felow brethren in my behalf, wherby I am greatly bou<g ref="char:cmbAbbrStroke">̄</g>d to employ my ſelfe for the whole compa<g ref="char:EOLunhyphen"/>ny, eſpecially for you in whatſoeuer oc<g ref="char:EOLhyphen"/>caſion may graunt me opportunitie.</p>
+               <p>The reſolution of the eſtates hath bin great, and of great importaunce: as that whereof the whole countrey I hope ſhal reap co<g ref="char:cmbAbbrStroke">̄</g>moditie, his Maieſtie being reſol<g ref="char:EOLhyphen"/>ued to accept of this good wil, &amp; to ſende aide
+<pb facs="tcp:177492:21"/> for the aſſuraunce of the ſaid Countreys againſt the French, ſo to procure the reſt and quiet which after ſo many miſchiefes were thereto, more then neceſſarie.</p>
+               <p>Thus moſt heartily co<g ref="char:cmbAbbrStroke">̄</g>mending my ſelf to your good remembraunce, I beſeeche the Creator, my L. <hi>Treſorer</hi> to graunt you your deſires.</p>
+               <closer>
+                  <dateline>From <hi>Madrill</hi> 
+                     <date>this 16. of Apryll. 1582.</date>
+                  </dateline>
+                  <signed>Your aſſured and olde friende. Ant. Cardinall of Granuelle.</signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p> To my L. Stercke, high Treſorer of his Maieſties recepts in the Low coun<g ref="char:EOLhyphen"/>treys.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>MY Lord,</salute>
+               </opener>
+               <p>
+                  <note place="margin">To the L. of Billy.</note> I haue receiued your let<g ref="char:EOLhyphen"/>ters of the laſt of Februarie, whi<g ref="char:EOLhyphen"/>che my L. of S. <hi>Vaſtz</hi> deliuered mee at his comming hether, from whence hee is nowe departed vpon his iourney. I was glad to ſee him, and wee haue often con<g ref="char:EOLhyphen"/>ferred together. The reſolution that hee
+<pb facs="tcp:177492:21"/> bringeth from the eſtates, deſerueth that he bee very welcome, eſpecially, for that hee hath ſo honourablie behaued himſelfe therein, as alſo in reconciling the eſtates of the Wallon Prouinces. In truth he is a meete man, and I am glad that I haue founde him affectionate towarde you. Of your good will towarde mee, I aſſure my ſelfe by reaſon of ſuch offers as both by mouth and letters you haue often made mee. And your ſelfe may be ſure to finde me alwayes correſpondent in like deſire, to employ my ſelfe in what ſoeuer concerneth you, which certaynely, both willingly and fauourablie I do per<g ref="char:EOLhyphen"/>fourme in what I may.</p>
+               <p>Wherefore heartily commending me to your good grace, I beſeeche the Crea<g ref="char:EOLhyphen"/>tor to graunt you your deſires.</p>
+               <closer>
+                  <dateline>From <hi>Madrill</hi> 
+                     <date>this 15. of Aprill. 1582.</date>
+                  </dateline>
+                  <signed>Your perfect good friende. Ant. Cardinall of Granuelle.</signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <pb facs="tcp:177492:22"/>
+                  <p>To my L. the L. of Billy. &amp;c.</p>
+               </postscript>
+            </div>
+         </div>
+         <div type="letter">
+            <head> Letters of A. Dennetiers.</head>
+            <opener>
+               <salute>MY Lorde,</salute>
+            </opener>
+            <p>
+               <note place="margin">To the L. of Raſſenghie<g ref="char:cmbAbbrStroke">̄</g>.</note> I lately receiued the let<g ref="char:EOLhyphen"/>ters whiche it pleaſed your Lorde<g ref="char:EOLhyphen"/>ſhip to write vnto mee by the L. of Saint <hi>Vaſtz,</hi> who was moſt honourably recei<g ref="char:EOLhyphen"/>ued and feaſted by the moſt noble, my L. of <hi>Granuelle,</hi> and as I vnderſtand, ſhal ſo bee alſo by my L. <hi>Foncq</hi> at <hi>Lisborne,</hi> where he is already arriued, and was like ſpeedily to be diſpatched, hauing ſuch an hoſt, had not his diſpatch by reaſon of the enteruiewe betweene the K. and the Em<g ref="char:EOLhyphen"/>preſſe, (who was gone to ſee her at <hi>Alme<g ref="char:EOLhyphen"/>rin</hi> whether ſhee came to meete him) bin ſtayed. I haue and ſtill will willingly do my L. of <hi>Vendegies</hi> all pleaſure I may, for beſides his deſerts, and vertuous qua<g ref="char:EOLhyphen"/>lities, there is in vs a certaine kinde of conformitie, which maketh mee to loue, reuerence, and honor him, reioycing and congratulating with your Lordeſhip, for ſuch a Lorde and friend, &amp; ſuch a nephew, of who<g ref="char:cmbAbbrStroke">̄</g> I hope of much in time to come, concerning the adminiſtration of y<hi rend="sup">e</hi> com<g ref="char:EOLhyphen"/>mon wealth &amp; benefite of our countrey. I woulde to God we had many ſuch.</p>
+            <p>We can come to no ende with the wi<g ref="char:EOLhyphen"/>dowe,
+<pb facs="tcp:177492:22"/> who is a fooliſh woman, and hath euill counſeile, I hope neuertheleſſe that time and friendes may mollifie her, and teach her to knowe her wrong. In the meane time my Lord of <hi>Secry</hi> waxeth ſo liuely and practiſe in the language and knowledge of ſpaniſh affaires, that his empriſonment will not onely bee not vn<g ref="char:EOLhyphen"/>profitable to him, but alſo moſt profitable. As likewiſe to the aforeſaid L. of <hi>Vende<g ref="char:EOLhyphen"/>gies,</hi> who hath dayly dealings with proc<g ref="char:EOLhyphen"/>tors and atturneys, learning the phraſe &amp; maner to proceede. Of this miſhappe wil redounde this benefite, that they ſhall haue learned the ſpeeche and cuſtomes of the kingdome.</p>
+            <p>It is ſuppoſed, that his Maieſties ſoiour<g ref="char:EOLhyphen"/>ning at <hi>Lisbone</hi> is very fit for y<hi rend="sup">e</hi> reducing of the Hollenders &amp; Zeala<g ref="char:cmbAbbrStroke">̄</g>ders, who haue learned &amp; vnderſtood what y<hi rend="sup">e</hi> K. our M. is. Alſo that herewithal the P. of Ore<g ref="char:cmbAbbrStroke">̄</g>ges death, w<hi rend="sup">t</hi> is thought certayne, may breede great alteratio<g ref="char:cmbAbbrStroke">̄</g>: God graunt we may wel vſe this opportunitie. I ſuppoſe that will be when the French is better known: alſo that vntil then we ſhal haue enough to do and more then euer. For a good &amp; firme
+<pb facs="tcp:177492:23"/> peace, a ſtrong war is neceſſarie. The v<g ref="char:EOLhyphen"/>niforme reſolution of y<hi rend="sup">e</hi> Wallon prouin<g ref="char:EOLhyphen"/>ces was hard very acceptablie, god grau<g ref="char:cmbAbbrStroke">̄</g>t it may be well vſed, otherwiſe I am in y<hi rend="sup">e</hi> ſame feare with your Lordſhip. Where<g ref="char:EOLhyphen"/>vpon I dare ſay his Maieſtie will vſe both wiſedome and diſcretion.</p>
+            <p>Your L. doeth greatly binde mee in ſhewing ſo great fauour towarde me, my kinſmen and friendes. I hope God will giue me grace to deſerue it toward your Lordſhippe and yours, according to my ſmall habilitie, in whatſoeuer I may vn<g ref="char:EOLhyphen"/>derſtande requiſite to your honor, welth, and ſeruice. A ſuppoſe that ſome of my yeeres pentions, in title of a Lorde of the priuie counſell, are yet behinde. I am to craue your Lordſhips fauour in the pay<g ref="char:EOLhyphen"/>ment thereof, towarde the reliefe of my mother, and other our wantes which are great, by reaſon of the great loſſes whi<g ref="char:EOLhyphen"/>che in our goods wee haue ſuſteyned du<g ref="char:EOLhyphen"/>ring theſe warres. If your Lordeſhip woulde do mee this fauour, to wiſhe mee ſome meanes how to be recompenſed, I thinke his Maieſtie woulde haue ſome regarde of my ſeruices and loſſes. The Admiralles ſonne of <hi>Caſtile,</hi> was lately
+<pb facs="tcp:177492:23"/> by <hi>Alcaldes</hi> and <hi>Aguacilles</hi> ledde priſo<g ref="char:EOLhyphen"/>ner to the Caſtle of <hi>Alameda,</hi> as guiltie of the death of a gentleman, named <hi>Gut<g ref="char:EOLhyphen"/>tieres,</hi> who was ſlayne by three or foure vnknowne <hi>Rebocados,</hi> of whome there haue been ſome Gentlemen and others founde in <hi>Arragon,</hi> and brought hither, who being here racked, the ſaid Admiral and other great perſons haue founde them ſelues grieued, alleadging that it is againſt their priuiledges, and as I vnder<g ref="char:EOLhyphen"/>ſtande, there haue bin a plaintiue requeſt exhibited to his Maieſtie: wherevpon is great diſcourſing. I am glad to heare of the recouerie of <hi>Lens</hi> out of y<hi rend="sup">e</hi> Frenches handes: for if his leaſure had ſerued, that he might haue fortified it, it might haue done muche miſchiefe all ouer the flatte Countreye, and bred great harme before it had been recouered.</p>
+            <p>Thus my L. moſt humbly commen<g ref="char:EOLhyphen"/>ding me to your L. good grace, I beſeech the Creator to grant you the accompliſh<g ref="char:EOLhyphen"/>ment of your moſt noble and vertuous deſires.</p>
+            <closer>
+               <dateline>From <hi>Madrill</hi> 
+                  <date>this 19. of Apryll. 1582.</date>
+               </dateline>
+               <pb facs="tcp:177492:24"/>
+               <signed>
+                  <hi>Of your ſaid Lordſhip, the moſt hum<g ref="char:EOLhyphen"/>ble and affectionate ſeruaunt. <hi>A. Dennetieres.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>The ſuperſcription was.</head>
+               <p> To my L. my L. the Baron of Raſſeng<g ref="char:EOLhyphen"/>hien, of the counſell of Eſtate, and chiefe of the Catholik K. of Spaines recepts in his lowe Countreys.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>Letters of the Abbot of Saint Vaſtz.</head>
+            <opener>
+               <salute>MY Lorde,</salute>
+            </opener>
+            <p>
+               <note place="margin">To counſel<g ref="char:EOLhyphen"/>ler Richar<g ref="char:EOLhyphen"/>dot.</note> I ſuppoſe you haue recei<g ref="char:EOLhyphen"/>ued the letters I writte vnto you by the way: Nowe that I am at my Lo. the Cardinalles, who hath lodged me at his houſe, and doeth mee all honor poſſible, granting me priuate audience ſo ofte<g ref="char:cmbAbbrStroke">̄</g> as I deſire it, I haue not forgotte<g ref="char:cmbAbbrStroke">̄</g> to report your vertues and deſerts. Wherein I aſ<g ref="char:EOLhyphen"/>ſure you, he hath taken ſuch a liking, that ſhortly you ſhall ſee the effectes, and that <hi>cum faenore</hi> that ſhal be reſtored you, whi<g ref="char:EOLhyphen"/>che by others enuie hath bin taken away.</p>
+            <p>The reſt is not to be referred to paper: only I pray you think that your affaires are at a good ſtay, whereunto I will bee
+<pb facs="tcp:177492:24"/> ſtill aſſiſtant, &amp; will not ceaſe <hi>niſire plane confecta.</hi> We depart to morrowe toward <hi>Lisbone,</hi> from whence you ſhall heare of our newes. My Lo. of <hi>Morillon</hi> is nomi<g ref="char:EOLhyphen"/>nated to the Biſhopricke of <hi>Turney,</hi> and the Deane of S. <hi>Gudule</hi> to the Archbi<g ref="char:EOLhyphen"/>ſhopricke of <hi>Malines,</hi> as one in whoſe be<g ref="char:EOLhyphen"/>halfe my L. hath reſigned. One of <hi>Mor<g ref="char:EOLhyphen"/>becques</hi> childre<g ref="char:cmbAbbrStroke">̄</g> is here in priſon, for kill<g ref="char:EOLunhyphen"/>ling his hoſte peeuiſhly. The L. of <hi>Go<g ref="char:EOLhyphen"/>micourt</hi> returneth with one habite, a<g ref="char:EOLhyphen"/>thouſand crowns and counſell for y<hi rend="sup">e</hi> war.</p>
+            <p>No more, but I pray you haue a care of our houſhoulde affayres, and ſo beſee<g ref="char:EOLhyphen"/>ching God to continue you his fauour. I do w<hi rend="sup">t</hi> al my heart co<g ref="char:cmbAbbrStroke">̄</g>mend me to yours.</p>
+            <closer>
+               <dateline>From <hi>Madrill</hi> 
+                  <date>this <hi>26.</hi> of Apryll. <hi>1582.</hi>
+                  </date>
+               </dateline>
+               <signed>Your perpetuall obedient friend. Iohn Abbot of Saint Vaſtz.</signed>
+            </closer>
+            <postscript>
+               <head>The ſuperſcription was.</head>
+               <p>To my L. my L. of Richardot, preſident of Artoys, and of his Maieſties pri<g ref="char:EOLhyphen"/>uie counſell. <hi>Arras</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>Letters of Peter Aldobrandine.</head>
+            <opener>
+               <salute>My moſt noble Lady,</salute>
+            </opener>
+            <pb facs="tcp:177492:25"/>
+            <p>
+               <note place="margin">To the Dut<g ref="char:EOLhyphen"/>cheſſe of Parma.</note>THe 2. of this preſent, I wrot to your highneſſe of my occurrences, and I receiued yours of the 22. of Februarie, foure dayes ſince, which as your ſelf may imagine, bred my great contentation, as thereby vnderſtanding howe after your great trouble with goutes and feuers, you nowe finde your ſelfe ſo eaſed, as we ſhortly hope that the Lorde God hath re<g ref="char:EOLhyphen"/>ſtored you to your former health, whiche I haue, and dayly doe beſeeche his diuine Maieſtie to graunt you. I doe likewiſe vnderſtande of your highneſſe determi<g ref="char:EOLhyphen"/>nation, wholy to obey his Maieſtie, con<g ref="char:EOLhyphen"/>cerning your aboode for a time in theſe quarters: which vndoubtedly both is and will be greatly to his Maieſties liking: as preſuppoſing that your highnes perſo<g ref="char:cmbAbbrStroke">̄</g> and ſhadow in theſe Countreys, may yet bring foorth and woorke verye great and good effectes, for that he woulde that on the one ſide my Lorde the prince ſhoulde forceably compell ſuche as remayne ob<g ref="char:EOLhyphen"/>ſtinate: and on the other ſide, y<hi rend="sup">t</hi> your high<g ref="char:EOLhyphen"/>neſſe ſhoulde ſtand with your armes open and as it were an vmpire, to ende all controuerſies towardes ſuch as woulde
+<pb facs="tcp:177492:25"/> haue recourſe to the gate of mercy: as al<g ref="char:EOLhyphen"/>ſo to thoſe that cannot be perſwaded and beleeue that the way of great and migh<g ref="char:EOLhyphen"/>tie force, is the ſame wherewith theſe countreys ſhoulde be reduced to due obe<g ref="char:EOLhyphen"/>dience. Yeſterday I had great talke with the Lorde <hi>Don Iohn <choice>
+                     <abbr>Idiaqz</abbr>
+                     <expan>Idiaquez</expan>
+                  </choice>,</hi> and than<g ref="char:EOLhyphen"/>ked him for ſuch paynes, as I knowe hee had taken, to the ende, your highneſſe might at his Maieſties hande, obtayne ſuch ſatiſfaction, as the zeale wherewith you haue, and ſtill doe ſerue him doth de<g ref="char:EOLhyphen"/>ſerue, and beſought him to perſiſt, eſpeci<g ref="char:EOLhyphen"/>ally to procure y<hi rend="sup">e</hi> reuoking of your high<g ref="char:EOLhyphen"/>neſſe, out of this exile with his fauour and good liking. Wherevpon I digreſſed in opening ſundrye purpoſes concerning your highneſſe entent. Hereunto he made me anſwere, that his Maieſtie was ſuf<g ref="char:EOLhyphen"/>ficiently perſwaded, how greatly he was bounde vnto you. Alſo that he neuer dou<g ref="char:EOLhyphen"/>ted of your readineſſe to fulfill willingly whatſoeuer his Maieſties pleaſure, who alſo will not omitte all due conſiderati<g ref="char:EOLhyphen"/>ons of your highneſſe ſeruice and quali<g ref="char:EOLhyphen"/>tie. Farther, that it is neceſſarie you ſhould attend the ſucceſſe of this ſpringe,
+<pb facs="tcp:177492:26"/> that afterward he may the better reſolue himſelfe: he promiſed me alſo y<hi rend="sup">t</hi> he would not omit any conuenient time or place, ſo earneſtly to deale w<hi rend="sup">t</hi> his Maieſtie, as your highnes may truſt vnto him. For my part I will ſlacke no time or opportunitie, to the ende, to keepe the ſaid L. well diſpo<g ref="char:EOLhyphen"/>ſed &amp; affected: who beſids his great good will to your highnes, is alſo in great cre<g ref="char:EOLhyphen"/>dite &amp; authoritie with his Maieſtie, &amp; is glad to ſee me, &amp; doeth by all meanes fa<g ref="char:EOLhyphen"/>uour me: neither would he ſuffer mee as yet to moue his Maieſtie, as I haue been about to doe: but willed mee to conforme my ſelfe to that your highneſſe writ vnto him, for that he ſaith his Maieſtie coulde not yet peruſe your letters, ſo that it were good he ſhould firſt ſee them, &amp; then when time ſerued to ſpeake, he would giue me warning. So as I wil wholy fulfil what ſo euer the ſaid L. ſhall commaunde mee, who alſo hath promiſed to procure often letters to your highnes. To be briefe, to graunt you ſuch amends as your deuotio<g ref="char:cmbAbbrStroke">̄</g> to his Maieſties ſeruice doth deſerue.</p>
+            <p>I haue aſſiſted <hi>Nicelly</hi> in whatſoeuer I thought conuenient for the ſeruice of the
+<pb facs="tcp:177492:26"/> houſe: and if he had not bin here, he might haue bin in the bryers, and therefore may certifie you in what credit eue<g ref="char:cmbAbbrStroke">̄</g> your high<g ref="char:EOLhyphen"/>nes ſhadow is here. But perticularly co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>cerning the Caſtle, I haue not ſpoke<g ref="char:cmbAbbrStroke">̄</g> one worde, but am ready to perfourme what<g ref="char:EOLhyphen"/>ſoeuer you ſhal appoint &amp; command me.</p>
+            <p>The knight <hi>Blondo</hi> writeth to me that concerning the kings reuenew, he ende<g ref="char:EOLhyphen"/>uoreth not yet to vſe any farther dilige<g ref="char:cmbAbbrStroke">̄</g>ce vntil the L. <hi>Duke,</hi> nameth the perſons y<hi rend="sup">t</hi> ſhall bye the landes, &amp; then all neceſſary conueiances ſhalbe diſpatched, when we alſo muſt take heed y<hi rend="sup">e</hi> you be aſſured con<g ref="char:EOLhyphen"/>cerning the title to <hi>Nouara.</hi> Becauſe that at <hi>Madrill,</hi> there haue bin perticular dea<g ref="char:EOLhyphen"/>ling touching the enhauncing and aug<g ref="char:EOLhyphen"/>mentation of your highnes priuiledges, &amp; that there it is to be diſpatched: <hi>Sama<g ref="char:EOLhyphen"/>niego</hi> hath perticular care of y<hi rend="sup">e</hi> buſines, &amp; I haue here procured a conſultation to be ſent to <hi>Madrill,</hi> which is in the handes of his Maieſtie, <hi>Bourbon,</hi> &amp; <hi>La Poſta,</hi> and as <hi>Matthewe Vaſques</hi> promiſeth me ſhalbe ſent to morrow: and withall, this buſines may be finiſhed &amp; ended, which is not of ſuch importaunce as to put it in accompt
+<pb facs="tcp:177492:27"/> of rewarde, howebeit, I will bee ſtill ſo aduiſed, that if I heare anything, I may knowe howe to anſwere.</p>
+            <p>Earle <hi>Claudes</hi> ſonnes haue preſen<g ref="char:EOLhyphen"/>ted a remembraunce to the counſayle of I<g ref="char:EOLhyphen"/>taly, demaunding the ſame that their fa<g ref="char:EOLhyphen"/>ther required, touching the goods confiſ<g ref="char:EOLhyphen"/>cate by the death of Captayne <hi>Camillus,</hi> and I ſuppoſe they ſhall haue the ſame anſwere their father had, namely, to goe to the <hi>Duke.</hi> And as occaſion fall out, I will not omitte anie endeuours. Cardi<g ref="char:EOLhyphen"/>nall <hi>Farncſius</hi> corriuales doe all they may: and I thinke his Maieſtie, <hi>Granuel,</hi> and <hi>Don Iohn <choice>
+                     <abbr>Idiaqz</abbr>
+                     <expan>Idiaquez</expan>
+                  </choice>
+               </hi> ſufficiently aun<g ref="char:EOLhyphen"/>ſwered, who toulde me that they goe a<g ref="char:EOLhyphen"/>bout to remedie it. Farther, yeſterday the ſaide <hi>Don Iohn</hi> willed mee to bee of good cheere: for his Maieſtie had his no<g ref="char:EOLhyphen"/>ble Lordſhippe in ſuch reputation, as the ſeruice which this hole familie had, and ſtill doeth vnto his Maieſtie did deſerue, but all valiant parſons haue Corriuales. So long as I remayne heere, I will ne<g ref="char:EOLhyphen"/>uer deſiſt as well in this, as in all other matters, but conforme my ſelf wholly to your highneſſe will, neyther will I omit
+<pb facs="tcp:177492:27"/> any diligence or endeuour, to the ende you may haue ſuch ſatiſfaction, as by rea<g ref="char:EOLhyphen"/>ſon you are to hope for of the goodneſſe of this great king, who God be prayſed is in better health then euer he was: and in his determinations, vſeth ſuch ſecrecy and aduice, as no man can well enter to knowe any thing, before it pleaſe him to publiſhe it.</p>
+            <p>The common opinion is, that in a<g ref="char:EOLhyphen"/>nye wiſe hee will in September returne to <hi>Madrill,</hi> as being both in <hi>Caſtile</hi> and <hi>Arragon</hi> greatly deſired. And yeſterday the ſaide Lorde <hi>Don Iohn</hi> toulde mee, that the moſt noble <hi>Empreſſe</hi> did verye well like the Monaſterie <hi>des Dechau<g ref="char:EOLhyphen"/>ſes</hi> at <hi>Madrill,</hi> and that her Maieſtie doth yet minde to come thither, howebeit, that ſuch is the loue and reſpecte ſhee beareth to her ſaide brother, that it is thought that at his being heere, ſhee will fulfill his Maieſties will, who wiſheth to leaue her the gouernment of the kingdome, toge<g ref="char:EOLhyphen"/>ther with the ſame. I will aduertiſe your highneſſe of what ſo euer ſhall dayly hap<g ref="char:EOLhyphen"/>pen. The French doe threaten to enter this kingdome with <hi>Don Anthony,</hi> who
+<pb facs="tcp:177492:28"/> truly is here as it were adored of the baſe co<g ref="char:cmbAbbrStroke">̄</g>munaltie, &amp; it is ſayd that in Brittaine, there is a great army ready. Alſo in as much as they ca<g ref="char:cmbAbbrStroke">̄</g>not beate any places but what lyeth between <hi>Duore</hi> &amp; <hi>Mignio,</hi> his Maieſtie ſendeth towarde the Citie of <hi>Porto</hi> the <hi>Prior Don Hernando</hi> with 10000. footmen and 800. horſe, with whom he ſhall keepe that Countrie. In this Citie there is a ſufficient garriſon. Alſo at <hi>Settubar</hi> a regiment of <hi>Almains;</hi> and y<hi rend="sup">e</hi> reſt of the fortreſſes hereabout are ſufficie<g ref="char:cmbAbbrStroke">̄</g>tly prouided. His Maieſties ſhoul<g ref="char:EOLhyphen"/>ders are charged with greate expenſes. Alſo it may be the ſhadow is bigger the<g ref="char:cmbAbbrStroke">̄</g> the daunger, which is encreaſed by him that endeuoured to hinder the ſending of any power of importa<g ref="char:cmbAbbrStroke">̄</g>ce into thoſe parts, as being but a ſmall friend to our Prin<g ref="char:EOLhyphen"/>ces glory, and an vtter enemy to the pro<g ref="char:EOLhyphen"/>uiding of y<hi rend="sup">e</hi> remedy for y<hi rend="sup">e</hi> affaires of thoſe parts which haue by him beene loſt and ſubuerted: ſo as without farther ſpeeche your highnes doe well vnderſtande mee.</p>
+            <p>Howebeit as <hi>Don Iohn</hi> toulde mee, although his Maieſtie be to prouide for
+<pb facs="tcp:177492:28"/> diuers Countries: yet is he reſolued to take order for greate prouiſion of coyne for the affaires of thoſe Countries, ney<g ref="char:EOLhyphen"/>ther will hee that the ſayde aſſignation be imployed any other where. I am not ſure of the iuſt ſumme, but I vnderſtande it will bee at the leaſt 2. millions of gold yeerely. The moſt part of the ſaide coine the <hi>Fouquers</hi> ſhall prouide monethly at <hi>Collen.</hi> In <hi>Italy</hi> there is order taken for 4. or 5000. <hi>Italians,</hi> a fewe horſemen, and 2. Regiments of <hi>Spaniardes,</hi> who all ſhall marche thitherwardes. And in as much as I perceiued all this prouiſion to proceede but ſlowely, and eſpeciall that of coyne, (that is the principall) by the counſayle of <hi>Don Iohn,</hi> I determined to exhibite a briefe to his Maieſtie, the tenor of the copie whereof is here incloſed, the which together with other diligence vſed coulde not but bring forth good effectes.</p>
+            <p>I haue ſent a copie thereof to Cardi<g ref="char:EOLhyphen"/>nall <hi>Granuelle,</hi> who liketh it very well, and ſendeth mee woorde that for his part hee hath and ſtill doeth all that hee may, in what ſo euer is needefull to be
+<pb facs="tcp:177492:29"/> broght to paſſe: &amp; I haue put him in mind that if that which was begunne to be pro<g ref="char:EOLhyphen"/>pounded, be put in execution, all will goe well forwarde, and that there is no other ſure way to reuoke your highneſſe out of this exile. I will procure earneſt warre in thoſe partes: for in ſo doing, wee ſhall ſoone ſee thoſe peoples minde: likewiſe to what purpoſe your highneſſe ſtaye in thoſe countreys, may ſerue. I haue and will vſe for County <hi>Manſſelt</hi> vpon all occaſions as well with his M. as w<hi rend="sup">t</hi> his ſeruauntes, all meanes poſſible: and the Lorde <hi>Don Iohn</hi> ſheweth mee that his Maieſtie doth ofte<g ref="char:cmbAbbrStroke">̄</g> write y<hi rend="sup">t</hi> he ſhal be con<g ref="char:EOLhyphen"/>tinewed. Alſo to ſeeke ſome meanes to content and ſatiſfie the ſaide Lorde, as well becauſe he deſerueth it, as alſo for eaſing your highneſſe minde: which is all that at this time I can ſay, moſt hum<g ref="char:EOLhyphen"/>bly kiſſing your highneſſe moſte noble handes. And I pray God graunt you all ſupreme felicitie.</p>
+            <closer>
+               <dateline>From <hi>Lisbone,</hi> 
+                  <date>this 8. of Aprill. 1582.</date>
+               </dateline>
+               <signed>
+                  <pb facs="tcp:177492:29"/>
+                  <hi>Your highnes moſt humble ſeruant <hi>Peter Aldobrandine.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>The ſuperſcription was.</head>
+               <p> To the moſt noble Lady, my Lady. &amp;c.</p>
+            </postscript>
+         </div>
+         <div type="letters">
+            <head>Letters of Peter Iſunca.</head>
+            <div type="letter">
+               <opener>
+                  <salute>Moſt noble ſir.</salute>
+               </opener>
+               <p>BEſeeching God this preſent may come to your Lo. and finde you in ſuch health as I beſeech &amp; wiſh you.<note place="margin">To Iaſper of Annaſtro.</note>
+               </p>
+               <p>By the laſt ordinarie I writ to your Lordeſhippe of my occurrences. In theſe I will rehearſe the ſubſtaunce thereof, ſo farre as I can remember (for I keepe no copies of my writings) as alſo what elſe ſhall come in my minde. For not being as then aſſured of the princes death, I nowe ſpeake otherwiſe, then then I did, and although at that time I was earneſt with you to come ſpeedily hither, ſo to get you from among thoſe beaſtes feete. Alſo that thervpon I writ you a perticu<g ref="char:EOLhyphen"/>lar, which in caſe of neceſſity you ſhoulde
+<pb facs="tcp:177492:30"/> ſhewe to the prince, yet nowe I ſay, that by a letter which my father writt me the 23. of this moneth, his minde is, that your Lordeſhip come not preſently, vntill that the heate of <hi>Orenges</hi> death bee cooled, for that hee doubteth leaſt they haue layd your way, and ſo you ſhould haue greater labour &amp; payne to paſſe them, then to re<g ref="char:EOLhyphen"/>mayne vnder the princes protection. Al<g ref="char:EOLhyphen"/>ſo in reſpecte of ſo ſmall aſſuraunce, I thinke it meet (for preuenting what may happen) that you ſende me a proxie to re<g ref="char:EOLhyphen"/>couer of his Maieſtie that which he hath promiſed you for this ſeruice, with a ſe<g ref="char:EOLhyphen"/>uerall note vnder your hande, in what maner you will that this quantitie bee employed and diuided: preſcribing there<g ref="char:EOLhyphen"/>in howe muche you alowe mee for my paynes. For although my father aſ<g ref="char:EOLhyphen"/>ſured mee of more then the thirde part, and that I was then content therewith: yet nowe I ſay, in conſideration of ſuche great depts as the Marchaunts doe pub<g ref="char:EOLhyphen"/>liſhe, that your Lordſhip oweth, I will bee content with the fourth part: but if you be otherwiſe minded, you know that my father is a partie, which notwithſtan<g ref="char:EOLhyphen"/>ding
+<pb facs="tcp:177492:30"/> I will procure him to be content w<hi rend="sup">t</hi> what I thinke good, &amp; therfore I beſeech you ſet it ſo down in your perticular note &amp; inſtruction, to the ende wee may con<g ref="char:EOLhyphen"/>clude vppon that whiche concerneth this matter. For that is the way to deale for ſatiſfiyng my father, beſides that, ſo your ſelfe may be pleaſed, and he wil not faile in whatſoeuer occurre<g ref="char:cmbAbbrStroke">̄</g>ce may happe<g ref="char:cmbAbbrStroke">̄</g> about his Maieſtie. In the meane time, I pray God preſerue you in ſuch health as I do deſire. I likewiſe put your Lordſhip in minde in the ſaid inſtruction, to make perticular mention, that you would haue before the high alter in the Church of the town or village, of whe<g ref="char:cmbAbbrStroke">̄</g>ce he was, a tombe built of ſtone, in ſuche forme &amp; maner, as you or I ſhold appoint for y<hi rend="sup">e</hi> ſlaier of him. It were alſo good in my opinio<g ref="char:cmbAbbrStroke">̄</g>, to build a perpetuall chantry of 2. chapleyns. Al<g ref="char:EOLhyphen"/>ſo to buy for the yong mans father &amp; mo<g ref="char:EOLhyphen"/>ther, or his nereſt kinſman 3. or 400. duc<g ref="char:EOLhyphen"/>kets of rent for them ioyntly to enioy: &amp; that they and their ſucceſſors might bee Lordes of the ſayde chantrie and tombe, &amp;c.</p>
+               <pb facs="tcp:177492:31"/>
+               <p>Now I ſay the Chamber hath procured to learne of my Father who the yong man was, and of whence, therefore if they ſhoulde alſo require to ſee the demonſtra<g ref="char:EOLhyphen"/>tion, that your Lordeſhip maketh of your affayres, it were meete you declared at large, and diſcretely whatſoeuer concer<g ref="char:EOLhyphen"/>neth the ſame. I ſaid alſo that (if you coulde) you ſhoulde procure the perfecte picture of the ſaide young man to be ſent hither, which your Lordeſhip may eaſely doe conſidering the good nature where<g ref="char:EOLhyphen"/>with it hath pleaſed God to endue you: and ſo you ſhoulde ſatiſfie manie that are deſirous to knowe him. My couſin <hi>Peter</hi> gaue mee warning that your Lordſhips creditors determined to moleſt my Lady your mother, purpoſing to take away her goods for your debt. Alſo y<hi rend="sup">t</hi> he had writ<g ref="char:EOLhyphen"/>ten vnto her, to ſende ſome docket where<g ref="char:EOLhyphen"/>by to auoide this trouble, and ſo inconti<g ref="char:EOLhyphen"/>nently I gaue my father notice, wiſhing him with all ſpeede to get forth two ſce<g ref="char:EOLhyphen"/>dules, which for this purpoſe, as alſo for preferring you before all the creditors of <hi>Peter Martinez</hi> of <hi>Arbalu,</hi> he had craued of his Maieſtie in your name: and that
+<pb facs="tcp:177492:31"/> wee will procure to bee done, notwith<g ref="char:EOLhyphen"/>ſtanding the king ſeeketh to delay for a fewe dayes the ouerplus of ſuche gratifi<g ref="char:EOLhyphen"/>cation as he oweth you. Whereupon, as alſo concerning other articles, preſe<g ref="char:cmbAbbrStroke">̄</g>t<g ref="char:EOLhyphen"/>ly vppon tydinges of <hi>Orenges</hi> death I wrote a letter, the copie whereof I ſente to your Lordſhippe, and doe hope that you haue receaued it. For default wher<g ref="char:EOLhyphen"/>of I wil ſe<g ref="char:cmbAbbrStroke">̄</g>d another, to y<hi rend="sup">e</hi> end you may ſee w<hi rend="sup">t</hi> what goodwil and ſeruice I haue &amp; do employ my ſelfe in your ſeruice: not that I deale any whitt of my owne intereſt, but only of your Lordſhippe and of your houſe, vntill I haue by Gods helpe brought and ſet the<g ref="char:cmbAbbrStroke">̄</g> cleare. I writ like<g ref="char:EOLhyphen"/>wiſe in my laſt, that becauſe it had been capitulated, I ſay, by woordes concluded with the <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> that the billes of 80000. ſhoulde bee diſpatched in my name, it were good for the accompliſh<g ref="char:EOLhyphen"/>ing thereof, that the ſayde Inſtruction which I require were ſent me, to y<hi rend="sup">e</hi> end I might worde by worde, accompliſh it ac<g ref="char:EOLhyphen"/>cording as your lordſhip ſhould appoint.</p>
+               <p>And I ſaide vnto <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> that it was requiſite to haue <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> the
+<pb facs="tcp:177492:32"/> order that <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> had obſerued,<note place="margin">This writte<g ref="char:cmbAbbrStroke">̄</g> in Cyphers.</note> and hee <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> in the ſame, vntill wee vnderſtoode howe they had taken <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> in the eſtates <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> and other parties: and I immediatly aduer<g ref="char:EOLhyphen"/>tized my father that it could not be, as ha<g ref="char:EOLhyphen"/>uing ſhewed <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> the letter which <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> writte to him and to ſundry other, the diuers copies diſagreeing, together with that which <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> writ to <hi>Peter Lopes,</hi> are diſperſed in this court, but all might be excuſed if there were any order taken.</p>
+               <p>Howebeit preſuppoſe the aforeſaide ſo to bee, yet I writte to my father that if it pleaſed <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> to publiſhe mee to haue been the partie that had giuen the <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> I woulde with all my heart to do him ſeruice do it: but I knowe not what reſolution they will take.</p>
+               <p>This I thought good to imparte vnto you, that you might vnderſtande it, There is a naughtie man in this Towne, who with exceſſiue libertie in my abſence, hath medled in your Lord<g ref="char:EOLhyphen"/>ſhips affaires. Eſpecially one day a<g ref="char:EOLhyphen"/>mong the reſt, in the preſence of Ladye
+<pb facs="tcp:177492:32"/> 
+                  <hi>Frauncis</hi> of <hi>Aratia</hi> who is heere, who alſo (as ſhee is not troubled with the pippe) paide him home agayne preſently: in ſuche wiſe, as they had gone together by the eares, had not one of the Kinges Secretaries wiues, in whoſe preſence this argument begunne, ſtepped betweene them. All was about Orenges death, &amp;c. And the ſame ho<g ref="char:EOLhyphen"/>neſt man toulde a verye friende of myne but yeſterday, that hee knewe by ſome of credite, that <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> was in the diſgrace of <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> for certaine cauſes whiche there were not to bee ſpo<g ref="char:EOLhyphen"/>ken of, of him and his affayres: whiche when hee coulde not beare: he ſayde,</p>
+               <p>By the habitte of Saint <hi>Peter</hi> and S. <hi>Paule,</hi> if I coulde catche him, hee ſhoulde pay mee.</p>
+               <p>This likewiſe I thought good to cer<g ref="char:EOLhyphen"/>tifie your Lo. to the ende, If this bee a<g ref="char:EOLhyphen"/>miſſe, wee might deale warily with this man. But if it bee otherwiſe, and wee may knowe that this wretche hath inuen<g ref="char:EOLhyphen"/>ted it, as he hath done other things, alſo that you be ſure, that neither by word nor
+<pb facs="tcp:177492:33"/> writing you haue not ſaide any thing a<g ref="char:EOLhyphen"/>gaynſt the <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> then that you conſider whether it were good that you writ one letter vnto him, alſo that y<hi rend="sup">e</hi> prince writ him another, to certifie him y<hi rend="sup">e</hi> you are his faithfull ſeruaunt: and there<g ref="char:EOLhyphen"/>in your Lo. may ſay, that this hath bin publiſhed and giuen out, by reaſon of ſome diſpleaſure conceaued againſt <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> natiue of <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> for that is the cauſe why I tell you this wretches name, and no other: for now it is no time to make enemies, eſpecially if heerein this man hath reported the trueth.</p>
+               <p>Sende me woorde whether you made any Bargaine with the Manſleyer: For this wretch here ſaith, that he was a cut<g ref="char:EOLhyphen"/>lers ſonne of <hi>Bilbao,</hi> and that hee will cauſe his father to repayre to the king, for the rewarde which his Maieſtie by his laſt edict offered to him that ſhoulde ſtay <hi>Orenge.</hi> In caſe he ſhould haue au<g ref="char:EOLhyphen"/>dience, they might bring our pretence in queſtion. This is the cauſe why I ſpeak: but if your Lo. woulde preſently let me vnderſtand, who or of whence this young man was, wee woulde enter acquain<g ref="char:EOLhyphen"/>taunce
+<pb facs="tcp:177492:33"/> with his father and mother, or his nigheſt kindred, and ſo compounde with them that they ſhoulde not diſturbe or hinder your Lo. rewarde. And ad<g ref="char:EOLhyphen"/>mitte they can not haue it, yet will they ſtill trouble vs. For although the king woulde not doe as I ſay, yet might hee commaunde your Lordſhippe to giue the youngmans father, or neereſt kinſman, part of that belongeth to you. Your Lord<g ref="char:EOLhyphen"/>ſhippe muſt therefore well conſider here<g ref="char:EOLhyphen"/>of: and ſende me worde of your minde, to the ende, by good counſayle, we may or<g ref="char:EOLhyphen"/>der this matter, which is of ſo great im<g ref="char:EOLhyphen"/>portance.</p>
+               <p>By reaſon of the pleaſure that the reue<g ref="char:EOLhyphen"/>rent father <hi>Peter of Olaue</hi> hath done in helping me in ſo fitte a time vnto 200. crownes, I truſt God willing, this day ſeuennight to depart homeward toward my houſe, where your worſhippe may write to mee and commaunde mee. Alſo, if your habilitie coulde beare it, to helpe mee as I haue requeſted, with 500. Duc<g ref="char:EOLhyphen"/>kets, toward y<hi rend="sup">e</hi> reparations of my houſe, your worſhippe might greatly binde me to your ſeruice: but if you doe it not, I
+<pb facs="tcp:177492:34"/> will impute it to your want.</p>
+               <p>Thus commending my ſelfe to Sir <hi>Olaue,</hi> I wil ad no more, but that I ſend this by meanes of the Lorde embaſſador <hi>Iohn Babtiſta Taſſus,</hi> whom I beſeeche carefully to ſend it to Sir <hi>Olaue.</hi> I al<g ref="char:EOLhyphen"/>ſo pray your worſhip, to let me vnderſta<g ref="char:cmbAbbrStroke">̄</g>d of your receipt hereof, whoſe noble par<g ref="char:EOLhyphen"/>ſon and eſtate, our Lorde God keepe and preſerue as I deſire.</p>
+               <closer>
+                  <dateline>From <hi>Madrill</hi> 
+                     <date>this laſt of Apryll. 1582.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p> To the noble L. Iaſper of Annaſtro, my L. &amp;c. at Turney.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>NOble Lorde,</salute>
+               </opener>
+               <p>
+                  <note place="margin">To the gene<g ref="char:EOLunhyphen"/>rall payma<g ref="char:EOLhyphen"/>ſter of the P. of Parma his armie.</note> I haue receiued your letter, dated the 18. of Februarie. which notwithſtanding, it lay aboue two moneths by the way, yet came in ſo good time, that together with y<hi rend="sup">e</hi> ſupply of 200. crownes w<hi rend="sup">c</hi> you ſent me there w<hi rend="sup">t</hi>, I hope godwilling w<hi rend="sup">t</hi>in theſe 8. daies to go home to my houſe, where God willing you ſhal alwayes finde mee readye at your com<g ref="char:EOLhyphen"/>maunde,
+<pb facs="tcp:177492:34"/> as alſo hereafter where euer I bee, euen to the death. And becauſe you haue, and ſtill do deale ſo earneſtly in my affaires, notwithſta<g ref="char:cmbAbbrStroke">̄</g>ding, you haue aſſig<g ref="char:EOLhyphen"/>ned theſe 200. crownes, together with the other 300. vppon <hi>Hierome</hi> of <hi>Sala<g ref="char:EOLhyphen"/>manca,</hi> I will deliuer them to whomſoe<g ref="char:EOLhyphen"/>uer you ſhall appoint as ſpeedily and di<g ref="char:EOLhyphen"/>ligently as reaſon requireth, for I will ſlacke no longer then vntill the firſt op<g ref="char:EOLhyphen"/>portunitie.</p>
+               <p>Concerning the eſtate of <hi>Arcauty</hi> his buſineſſe. I aſſure you (as peraduenture you haue hearde) although he lay at <hi>Paris</hi> vnder the name of his Maieſties factor, yet had his highneſſe taken expreſſe order that no money ſhould come to his hands: but be altogether deliuered to <hi>Iſuard Ca<g ref="char:EOLhyphen"/>pello,</hi> and after to <hi>Elias</hi> and <hi>Simon Cal<g ref="char:EOLhyphen"/>uia,</hi> which was preſently perfourmed in ſuch wiſe as <hi>Arcauty</hi> was not bounde to any accompt of mony by him receiued. But he tooke order in his great diſcompt of 36300. crownes. whereof he had gi<g ref="char:EOLhyphen"/>ue<g ref="char:cmbAbbrStroke">̄</g> bils of exchange vnto ſuch marchants as he had dealt w<hi rend="sup">t</hi>, notwithſtanding, there came neuer a peny into his handes, as I
+<pb facs="tcp:177492:35"/> ſaid, but to <hi>Capello</hi> &amp; <hi>Caluia,</hi> w<hi rend="sup">t</hi> neuerthe<g ref="char:EOLhyphen"/>les was very indiſcretly done of his high<g ref="char:EOLhyphen"/>neſſe in reſpect of <hi>Arcauty:</hi> for it was a very abſurde matter, to deliuer letters of exchange for that money that neuer came to his handes, although it fell out well.</p>
+               <p>And if after giuing vp of that accompt, hee had gone home to his owne houſe, as he purpoſed when he came hither, he had not bin at that point that nowe he is at.</p>
+               <p>But he ſtayed in this Court almoſt <hi>2.</hi> yeeres, onely to cleare him ſelfe of the theft of <hi>28000.</hi> crownes, which he ſaieth <hi>Alphonſe Curiel</hi> hath committed, from his Maieſtie, ariſing of two Commiſ<g ref="char:EOLhyphen"/>ſions of <hi>55000.</hi> crownes: for when hee had here receiued them out of the Cheft with thre keys, he diſbourſed not there a<g ref="char:EOLhyphen"/>boue <hi>22000.</hi> So that when the factor, who is <hi>Curiels</hi> kinſman, or at the leaſte his very friende, came to be chiefe of the Counſell of acompts in Flaunders, he did ſo informe him, as well by worde of mouth, as alſo by certayne the writinges of <hi>Iſuarde Capell, Arcautyes</hi> enemie, that he made him beleeue, that <hi>Arcauty</hi> ought the ſaide <hi>28000</hi> crownes, ſo that
+<pb facs="tcp:177492:35"/> thus w<hi rend="sup">t</hi>out farther a do, they haue brought him to that eſtate he is now in. But the receauer is ſcaped out of theyr hands, as he who gat the licenciat <hi>chumacero</hi> his maieſties counſayler, who is the viſiter of the counſell of <hi>Demaynes</hi> &amp; other the Kinge his officers to be the iudge of his cauſe: but when the factor and his com<g ref="char:EOLhyphen"/>miſſioners perceiued that all they went about, was ſmally to the purpoſe, they woulde not directly charge the ſayd <hi>Ar<g ref="char:EOLhyphen"/>cauty,</hi> but did, and ſtill do greatly moleſt him. Howebeit, it is ſayde that <hi>Chuma<g ref="char:EOLhyphen"/>cero</hi> will ſoone ende this matter, and that the affection of theſe Iudges will ſoone be ſpied. Of whom the one is <hi>Al<g ref="char:EOLhyphen"/>fons Carner,</hi> who hath playde him the worſt tricke of frindſhippe that any man coulde: as if him ſelfe had liued <hi>ſine cri<g ref="char:EOLhyphen"/>mine.</hi> In this eſtate doe the receiuers affayres now ſtande.</p>
+               <p>Where you deſire to knowe whether bringing inſtructions from the generall receiuers, hee might bouldly come to giue vp his accomptes: I ſay he may, ſo that the ſaide inſtructions bee effectuall: alſo that there bee ſet downe both the re<g ref="char:EOLhyphen"/>cepts
+<pb facs="tcp:177492:36"/> and diſbourſings of the mony. By this meanes, together with bringing mo<g ref="char:EOLhyphen"/>ney for your expences, you may eaſely ſtoppe that gappe: for the King alloweth neyther wages nor any other thing vnto the Lo. of <hi>Vnceta,</hi> who ſtayeth here about giuing vppe of <hi>Lexaldi</hi> the receiuers ac<g ref="char:EOLhyphen"/>compts and his owne, yea it is ſaide he will not giue him ſo much as a loafe of breade. I am therefore of opinion, that if you coulde get your accompt to be paſ<g ref="char:EOLhyphen"/>ſed there, you ſhould ſaue much, both mo<g ref="char:EOLhyphen"/>ney and labour: but if not, bee of good cheare, for by the meanes aforeſayde you ſhall giue the phiſition a figge. Father, ſo ſoone as God will giue mee leaue to gette to <hi>Victoria,</hi> I will immediatly ſende you your predeceſſors relation, as curious and braue as you coulde wiſhe, for vntill then I can not for the cauſes that aforetime I haue ſhewed you. I am very glad of that you write concerning <hi>Bernarde</hi> of <hi>Iſunca,</hi> as alſo the La. Ma<g ref="char:EOLhyphen"/>ry his ſiſter will be, to whom I haue ſent the copie of your letter: for ſhee loueth him deerely. God giue him that I wiſhe him.</p>
+               <pb facs="tcp:177492:36"/>
+               <p>At his comming, I pray you ſalute him from me, and will him to doe that he toulde me. Alſo that Lady Mary and her ſonne were in good health the <hi>20.</hi> of this preſent. I heare ſo much of the child, that notwithſtanding euery man affirmeth it, yet I can not beleeue it. God preſerue him to his ſeruice. Amen. The proui<g ref="char:EOLunhyphen"/>der the <hi>23.</hi> of this moneth, was in ſuche health as my ſelfe ſtande in neede of, and laboureth ſtill to reſigne his office vnto me: but he ca<g ref="char:cmbAbbrStroke">̄</g>not compaſſe it. He wil god<g ref="char:EOLhyphen"/>willing, tarry ſtill at home: ſome ſay his Maieſtie will ſende him into the Lowe Countreys with the ſouldiers that ſhall goe thither, to be their generall commiſ<g ref="char:EOLhyphen"/>ſarie: but I knowe he will not take it vp<g ref="char:EOLhyphen"/>on him, vnleſſe he helpe me to the other: alſo that in caſe I haue it, hee will not re<g ref="char:EOLhyphen"/>fuſe any thing. But make not me author hereof. In the ſayde letters of the <hi>23.</hi> it is ſayde, that his Maieſtie departed the <hi>19.</hi> out of <hi>Lisbone,</hi> to meete his ſiſter the Empreſſe. Alſo that hee returneth the tenth of May, wholy to receiue her.</p>
+               <p>Alſo that the great Prior is in the fielde,
+<pb facs="tcp:177492:37"/> with whome there ſhall ioyne <hi>8000. Ca<g ref="char:EOLhyphen"/>ſtilian</hi> ſouldiers, <hi>4000. Almaynes,</hi> and <hi>800.</hi> Horſes of the garde of <hi>Caſtile,</hi> and that with that campe hee ſhall goe to vi<g ref="char:EOLhyphen"/>ſite all the houldes and countreys bee<g ref="char:EOLhyphen"/>tweene <hi>Oporto</hi> and <hi>Bayon</hi> in <hi>Callice.</hi>
+               </p>
+               <p>The cauſe is ſayde to bee for that <hi>Don Anthony</hi> is in Fraunce, furniſhing him ſelfe to come vpon vs, but I can not thinke that. But his Maieſtie will ſtoppe him, and ſo hee may make a fayre hande with theſe people. If hee were heere, though it ſeeme vnpoſſible, yet manye woulde be very glad. From <hi>Guipuſcoa</hi> there came to him <hi>18.</hi> ſhippes gallantly furniſhed with aboue <hi>1500.</hi> Marriners, I wot not what to ſay of it: and althogh here were a voice of late that when the Empreſſe was comen into Portingale his maieſty would goe to <hi>Caſtile,</hi> yee now is there no more ſpeache: where<g ref="char:EOLhyphen"/>upon wee may gather that vntil he ſeeth the end of this frenche dealing, hee will not out of this realme. It is ſaid that within theſe few dayes the great Chap<g ref="char:EOLhyphen"/>leyne of Portingall was in hande with him in the behalfe of the Realme. And
+<pb facs="tcp:177492:37"/> hat although his Maieſtie did them great honor in bringing his ſiſter to go<g ref="char:EOLhyphen"/>uerne them, yet ſhould they greatly com<g ref="char:EOLhyphen"/>playne of his departure, ſithe nowe he knewe both the eſtate, qualitie and go<g ref="char:EOLhyphen"/>uernours of the kingdome. But the K. vnderſtanding whereat the Chapleyne leueled, made him this anſwere. My ſiſter knowing mee to haue heere ſo great af<g ref="char:EOLhyphen"/>fayres, woulde not but come to ſee mee.</p>
+               <p>Thus the Chapleyn could not vnder<g ref="char:EOLhyphen"/>ſtande his purpoſe: ſo great is his Ma<g ref="char:EOLhyphen"/>ieſties diſcretion.</p>
+               <p>A while ſince, one <hi>Antony Guttierez,</hi> heyre to <hi>6000.</hi> crownes rente in this towne, was ſlayne by night, and there<g ref="char:EOLhyphen"/>fore a neere kinſman of the <hi>Admirall</hi> of <hi>Leon,</hi> was caryed to priſon. They fet him out of the Church, and the prouoſtes of the court (comming hither) apprehended him, whether by right or wrong, and tor<g ref="char:EOLhyphen"/>mented him brauely, euen to the vnknit<g ref="char:EOLhyphen"/>ting of his ioyntes: which the <hi>Admirall</hi> is grieued at, and complayneth of the of<g ref="char:EOLhyphen"/>ficers of Iuſtice, in that the Gentleman being his kinſman and of ſuche calling, they had racked him, and therefore vſed
+<pb facs="tcp:177492:38"/> great woordes agaynſt the preſident of <hi>Caſtille:</hi> wherevpon his Maieſtie com<g ref="char:EOLhyphen"/>maunded to take him priſoner, ſo as he is priſoner in his owne houſe, and his eldeſt ſonne, the Earle of <hi>Melgar</hi> is caried to priſon to <hi>Alameda,</hi> in the countie of <hi>Va<g ref="char:EOLhyphen"/>raias,</hi> becauſe (as the ſpeech goeth) hee is thought author of this murder.</p>
+               <p>The <hi>Marquize</hi> of <hi>Pennafiell,</hi> heire to the Duke of <hi>Oſſuna Viceroy</hi> of <hi>Naples,</hi> comming hither a while ſince with a wo<g ref="char:EOLhyphen"/>man, who was ſaide to be his louer, they haue taken away the woman, &amp; commit<g ref="char:EOLhyphen"/>ted him as priſoner to his owne houſe.</p>
+               <p>Thus theſe three Lords remayne in the ſtate of meane Gentlemen. Alſo by reaſo<g ref="char:cmbAbbrStroke">̄</g> of ſome folly committed in the Monaſte<g ref="char:EOLhyphen"/>rie of the <hi>Dechauſſes,</hi> whiche is in this towne, about the holy weeke ſhall bee a twelue moneth. The Earle of <hi>Caſtanne<g ref="char:EOLhyphen"/>da, Don Lewes</hi> of <hi>Cordoua,</hi> who ought to be the Duke of <gap reason="blank" extent="1+ words">
+                     <desc> _____ </desc>
+                  </gap> and <hi>Marquize</hi> of <hi>Comarez: Don Anthony Manricqz</hi> ſonne of <hi>Don Iohn Manricqz: Don Pe<g ref="char:EOLhyphen"/>ter Vanegas</hi> and others, are baniſhed the court. <hi>Don Henry Mendoza,</hi> brother to the <hi>Duke</hi> of <hi>Infantado</hi> is likewiſe bani<g ref="char:EOLhyphen"/>ſhed
+<pb facs="tcp:177492:38"/> for another trifle: beſides for the for<g ref="char:EOLhyphen"/>mer matter of the <hi>Dechauſſes,</hi> the prince of <hi>Aſcoli</hi> was almoſt a whole yere in ex<g ref="char:EOLhyphen"/>ile. Thus may you ſee what K. <hi>Philip</hi> can do, euen in his abſence. God preſerue him. I haue no ſatiſfaction in that which perticularly toucheth <hi>Annaſtro</hi> for his aſſuraunce, only that you keepe him there with you. Which God graunt it be ſo. Who preſerue you in ſuch ſtate as I doe deſire.</p>
+               <closer>
+                  <dateline>From <hi>Madrill</hi> 
+                     <date>this laſt of Apryl. <hi>1582.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <hi>Noble Lo. B. L. M. A. V. M. Your ſeruaunt. <hi>Iſunca.</hi>
+                     </hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was. </head>
+                  <p> To the noble L. Peter of Olaue, my ve<g ref="char:EOLhyphen"/>ry good L. High treſorer of the hap<g ref="char:EOLhyphen"/>pie armie, which the Catholike Ma<g ref="char:EOLhyphen"/>ieſtie maintayneth in his eſtate of Flaunders. &amp;c.</p>
+                  <p>
+                     <hi>At Turnay.</hi>
+                  </p>
+               </postscript>
+            </div>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:177492:39"/>
+            <head>¶ Letters of Frauncis <hi>Guillam.</hi>
+            </head>
+            <p>MOſt noble L. ſith the copie of my former writing vnto you is here<g ref="char:EOLhyphen"/>vnto adioyned,<note place="margin">To y<hi rend="sup">e</hi> prince of Parma.</note> I will certifie you onely of what haue ſince happened me. The Abbot of Saint <hi>Vaſtz</hi> arriuing here the 16. of this preſent, did deliuer mee that which your highneſſe writte mee the <hi>27.</hi> of Februarie. Alſo whiles very earneſtly wee wayted for newes from your high<g ref="char:EOLhyphen"/>neſſe, there arriued yeſterday a poſt here, by whom I receiued the letters which it pleaſed you to ſende the <hi>16.</hi> of this mo<g ref="char:EOLhyphen"/>neth, whereunto I will make a ſhort an<g ref="char:EOLhyphen"/>ſwere, becauſe the poſte of <hi>Italy</hi> by whom I alwayes write, is this day to be diſpat<g ref="char:EOLhyphen"/>ched. <hi>Cardinall Granuelle</hi> entertay<g ref="char:EOLhyphen"/>ned the ſayde Abbot at his houſe: where<g ref="char:EOLhyphen"/>in I aſſiſted him vntill hee departed to<g ref="char:EOLhyphen"/>warde his Maieſtie, whiche was the <hi>20.</hi> of this moneth. I ſhewed him what your highneſſe writte vnto mee: alſo howe he ſhoulde behaue him ſelfe: wherein I will not there fayle him. I deſired him to let me vnderſtand if there were any thing
+<pb facs="tcp:177492:39"/> wherein I might do him any pleaſure. I writ alſo to <hi>D. Iohn</hi> of <hi>Idiaxz</hi> how eare<g ref="char:EOLhyphen"/>neſtly he had trauayled to bring y<hi rend="sup">e</hi> eſtates to this reſolutio<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">t</hi> they haue taken. Alſo that it were good y<hi rend="sup">t</hi> his maieſtie lett him vnderſtand that your highnes informed him of the whole, with what ſo euer els I thought meete. Concerning the re<g ref="char:EOLhyphen"/>turne of the ſouldiers that are departed out of theſe eſtates, alſo of the <hi>Italians</hi> that are to goe with them, I can ſay no<g ref="char:EOLhyphen"/>thing: onely I was glad to vnderſtand that his Maieſtie hath nominated ſuche Captaynes ouer them to guide them, as your highneſſe doeth ſo well like of, and as is meete for his Royall ſeruice, and I aſſure my ſelfe, hee will ſo deale in your highneſſe behalfe, by reaſon of the great loue he beareth you.</p>
+            <p>That which now me ſeemeth the beſt, is the furniture of coyne, and ſurely if I coulde doe anye more then put him in minde thereof, your highneſſe ſhould not deſire it more. But I haue done that, and doe it ſtill, yea and dayly will vpon euery opportunitie, conſidering howe euident it is, that your highneſſe can doe nothing
+<pb facs="tcp:177492:40"/> without that ſubſtaunce. Vpon which occaſion, together with that I ſayde be<g ref="char:EOLhyphen"/>fore, <hi>Maldonado</hi> ſhall come and ſerue your highneſſe. <hi>Don Iohn</hi> of <hi>Idiacq<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> hath anſwered my letters, the copy wher<g ref="char:EOLhyphen"/>of I haue ſent herevnto adioyned. I haue put both of them in minde, and will ad<g ref="char:EOLhyphen"/>uertiſe your highnes of their reſolution. The Cardinall ſhewed mee howe deſi<g ref="char:EOLhyphen"/>rous hee was of this reſolution: Alſo howe often hee had propounded it, wil<g ref="char:EOLhyphen"/>ling mee to doe the like. I ſuppoſe that the ordinarie prouiſion that is to bee made, dependeth vndoubtedly vpon the preſident of the Treſurie: for I haue tal<g ref="char:EOLhyphen"/>ked with him, and he maketh mee no an<g ref="char:EOLhyphen"/>ſwere to the purpoſe. But ſith this is ordered by the way of eſtate, it is no mar<g ref="char:EOLhyphen"/>uell.</p>
+            <p>Of <hi>Madams</hi> health and recouerie, all wee your highnes ſeruauntes are ve<g ref="char:EOLhyphen"/>rye glad, and reaſon. The contrarye whereof we doe feele, in that the French haue opportunitie to try that they do, and to bring all into triall, but I hope in God that in the ende, by meanes of ſuch order and forecaſt as your highneſſe will in all
+<pb facs="tcp:177492:40"/> places vſe, they ſhall reape no fruite of their purpoſes.</p>
+            <p>We haue of late dayes greatly wiſh<g ref="char:EOLhyphen"/>ed for letters from your highneſſe, to re<g ref="char:EOLhyphen"/>ſolue the doubt conceiued of the death of <hi>Orenge,</hi> the newes being here ſo diuers, as well from <hi>Paris</hi> as <hi>Antwerpe.</hi> All wiſe men thinke him dead, and ſo we are to beleeue, although it be ſtrange, y<hi rend="sup">t</hi> your highneſſe cannot fully verifie it. There came newes from <hi>Lisbone</hi> that hee was in extremities, and here it was ſayde that he was dead: But his fautors had concea<g ref="char:EOLhyphen"/>led it a fewe dayes, whyle they tooke or<g ref="char:EOLhyphen"/>der in their owne affayres.</p>
+            <p>I will write vnto <hi>Velaſques</hi> of <hi>Mina<g ref="char:EOLhyphen"/>ya,</hi> who is of his Maieſties chamber, con<g ref="char:EOLhyphen"/>cerning the good you haue done him, and doe ſtill wiſhe to doe, neyther can it bee but many will like well of it, that your highnes are ſo willing to fauour &amp; plea<g ref="char:EOLhyphen"/>ſure his Maieſties ſeruauntes, eſpecially ſuch as are ſo neere his royall perſon.</p>
+            <p>I doe infinitely thanke your highnes for the pleaſure it pleaſed your highneſſe to ſhewe mee, in thanking his Maieſtie, and honouring his ſeruantes. The great
+<pb facs="tcp:177492:41"/> good will you beare mee, together with whatſoeuer I am or may bee, I will con<g ref="char:EOLhyphen"/>feſſe to depende of hour highnes, and will wholy employ my ſelf, euen to the death, in your ſeruice. I hope by your fauou<g ref="char:EOLhyphen"/>rable aſſiſtaunce at all times, I ſhall bee able to doe it, and I pray God I may re<g ref="char:EOLhyphen"/>quite it.</p>
+            <p>The liberty and commoditie that your highneſſe haue giuen mee to diſtribute a<g ref="char:EOLhyphen"/>mong ſundry perſons, to the yeerely va<g ref="char:EOLhyphen"/>lue of two or three hundred crownes, as my ſelfe ſhall thinke good, was verye comformable to your highneſſe mo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> noble ſeruice. I thanke you for this fa<g ref="char:EOLhyphen"/>uour, and will beware of exceeding far<g ref="char:EOLhyphen"/>ther then neede ſhall require: and all that I may reſerue in this expence I wil, as one that herein doe not pretende to a<g ref="char:EOLhyphen"/>ny other then your highneſſe ſeruice.</p>
+            <p>Certaynely it ſhall bee to make demon<g ref="char:EOLhyphen"/>ſtratio<g ref="char:cmbAbbrStroke">̄</g> of that which your highnes meant to haue done with <hi>Foncq, Lallo,</hi> and <hi>Se<g ref="char:EOLhyphen"/>baſtian</hi> of <hi>Santoyo.</hi>
+            </p>
+            <p>In <hi>Francis</hi> of <hi>Humaras</hi> behalfe I wil vſe all dilige<g ref="char:cmbAbbrStroke">̄</g>ce, as your highnes haue commaunded, towarde thoſe officers that
+<pb facs="tcp:177492:41"/> receiue letters in his commendation. Truely hee deſerueth all the fauour that you ſhewe him, and it were meet his Ma<g ref="char:EOLhyphen"/>ieſtie ſhould reſolue vpon that he preten<g ref="char:EOLhyphen"/>deth. Hee is heere, and hauing ſhewed him your highnes deſire to do him good, alſo that you wiſhed his ſeruice, to the rude, in the campe as alſo in all other oc<g ref="char:EOLhyphen"/>caſions, to haue the better opportunitie to gratifie him, hee is fully reſolued to come and ſerue your highneſſe, for he ta<g ref="char:EOLhyphen"/>keth him ſelfe as earneſt a ſeruaunte to your highnes as any other, and not re<g ref="char:EOLhyphen"/>ſpecting any pretences or benefites that heere hee might reape, and aſſuring him ſelf of ſuch fauour, as your highnes haue and will ſhewe him: hee mindeth to take order to depart with the firſt Gallies. He had neede leaue ſome prouiſion of money with his mother, but for that, and any o<g ref="char:EOLhyphen"/>ther thing needefull for his iourney, hee will ſeeke the beſt remedy hee may. It may pleaſe your highnes to write to <hi>don Sanctius</hi> of <hi>Padilla,</hi> ſo to accomodate him thitherward, that he may paſſe with thoſe that ſhall ſet firſt forwarde: alſo to whom<g ref="char:EOLhyphen"/>ſoeuer ſhall haue charge of him, to vſe
+<pb facs="tcp:177492:42"/> him as your highneſſe ſeruaunt, and ac<g ref="char:EOLhyphen"/>cording to his profeſſion: for his good<g ref="char:EOLhyphen"/>will to ſerue your highneſſe doeth de<g ref="char:EOLhyphen"/>ſerue it.</p>
+            <p>I heare that <hi>Don Bernardino</hi> of <hi>Mendoza</hi> who is in England, hath writ<g ref="char:EOLhyphen"/>ten to his Maieſtie, and complaineth that your highneſſe doe keepe no correſpon<g ref="char:EOLhyphen"/>dence with him, as that ſince Auguſt laſt, when you writ of the ſucceſſe of <hi>Turnay,</hi> he hath not had any letters fro<g ref="char:cmbAbbrStroke">̄</g> you, not<g ref="char:EOLhyphen"/>withſtanding hee hath ſente you ſundrye poſtes. I graunt many are loſt, neuer<g ref="char:EOLhyphen"/>theleſſe among ſo many ſome ſhoulde come ſafe. I thought good to certifie your highnes hereof, becauſe many think it ſtrange there ſhould bee ſo ſmall fami<g ref="char:EOLhyphen"/>liaritie. Our Lord preſerue your high<g ref="char:EOLhyphen"/>neſſe noble perſon, with the encreaſe of long life, and ſuch honor as all your ſer<g ref="char:EOLhyphen"/>uaunts do deſire and ſtand in neede of.</p>
+            <closer>
+               <dateline>From <hi>Madrill</hi> 
+                  <date>this <hi>30.</hi> of Apryll. <hi>1582.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Moſt noble Lorde, your higneſſe
+<pb facs="tcp:177492:42"/> humble ſeruaunte who ſaluteth you. <hi>Frauncis Guillamas.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>The ſuperſcription was.</head>
+               <p> To the moſt noble Lorde, the prince of Parma. &amp;c. my verye good Lorde.</p>
+            </postscript>
+         </div>
+         <div type="letters">
+            <head>
+               <hi>Theſe two letters enſuing,</hi> which were ſent from the Ile of <hi>Tercera, being come to our handes,</hi> wee woulde not defraude the reader thereof.</head>
+            <argument>
+               <p>The copie of the letters which the K. of Caſtile writ vnto Ciprian of Figuei<g ref="char:EOLhyphen"/>redo Vaſconcellos, by Iaſper Ho<g ref="char:EOLhyphen"/>mem, who came to the towne of Praya the 7. of March. 1582.</p>
+            </argument>
+            <div type="letter">
+               <opener>
+                  <salute>
+                     <hi>D. Cyprian</hi> of <hi>Figueiredo,</hi>
+                  </salute>
+               </opener>
+               <p> I the K. doe ſalute you, ſtedfaſtly beleeuing that you will perfourme what euer you are bounde vnto for my ſeruice, and the
+<pb facs="tcp:177492:43"/> benefite of this Ile, as alſo of any thing perticularly touching your ſelfe, I thought good to commende vnto you that truſt which I repoſe in you, alſo to write vnto you, that behauing your ſelfe, (as I will beleeue you will) I will not onely forgiue all former offences, but al<g ref="char:EOLhyphen"/>ſo ſhall be glad to recompence the ſeruice that herein I hope for of you, to the ende, the great domage of this Ile, and the in<g ref="char:EOLhyphen"/>habitauntes thereof, proceeding of ſuche preparatiues of ſouldiers, ſhippes, and munition as I haue commaunded to prouide, as the bringer of this my letter may more at large declare vnto you, may be ſtayed and excuſed.</p>
+               <closer>
+                  <dateline>Written at <hi>Lisbone</hi> 
+                     <date>the <hi>14.</hi> of De<g ref="char:EOLhyphen"/>cember. <hi>1582.</hi>
+                     </date>
+                  </dateline>
+                  <signed>The King.</signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p> By the king. To D. Cyprian of Fignei<g ref="char:EOLhyphen"/>redo.</p>
+               </postscript>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177492:43"/>
+               <p>THis letter together with another from <hi>Don Chiſtopher</hi> of <hi>Moura,</hi> and two from <hi>Ambroſe</hi> of <hi>Aguiar,</hi> go<g ref="char:EOLhyphen"/>uernour of the Ile of S. <hi>Michel</hi> for <hi>Ca<g ref="char:EOLhyphen"/>ſtille,</hi> and one from <hi>Don Peter,</hi> Biſhop of <hi>Caſtille,</hi> the ſaide <hi>Cyprian</hi> of <hi>Figueiredo</hi> woulde not open, but ſent them from the Towne of <hi>Praya</hi> with others to <hi>Don Michel de Silua,</hi> Earle of <hi>Torres Vedras</hi> to the Citie of <hi>Angera,</hi> who like<g ref="char:EOLhyphen"/>wiſe woulde not open them: and there<g ref="char:EOLhyphen"/>vpon the ſayde <hi>Cyprian</hi> of <hi>Figueiredo,</hi> referred them to the earle, who at his in<g ref="char:EOLhyphen"/>ſtaunce, they both being together, did finally breake them vp: and then hee deſi<g ref="char:EOLhyphen"/>red him, to ſend them to the kings Maie<g ref="char:EOLhyphen"/>ſtie. <hi>Don Antonio.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <head>The anſwere to the former letter which Ciprian of Figueiredo Vaſconcellos, gouernor of the Iles to the vſe of K. Don Anthony ſent, to the K. of Ca<g ref="char:EOLhyphen"/>ſtille, which the Earle of Torres Ve<g ref="char:EOLhyphen"/>dras ſealed, when he had peruſed the<g ref="char:cmbAbbrStroke">̄</g> and ſo ſent them by the way of Saint Michels Ile.</head>
+               <pb facs="tcp:177492:44"/>
+               <p>
+                  <hi>I</hi> Haue peruſed your Maieſties letter which you ſent mee by <hi>Iaſper Home<g ref="char:cmbAbbrStroke">̄</g>:</hi> wherein you ſay you cannot but think that I will fulfill what euer I am bound vnto for your ſeruice, the benefite of this Ile, and perticularly for mine owne per<g ref="char:EOLhyphen"/>ſon: woulde to God your maieſtie knew howe greatly your ſelfe are bound to the moſt noble Infant <hi>Don Lewes,</hi> who with his ſubiectes, alwaies aſſiſted your father the <hi>Emperoure</hi> in his warres, the<g ref="char:cmbAbbrStroke">̄</g> would you not attempte any thing agaynſt the Crowne of <hi>Portingall,</hi> to the preiudice of his ſonne king <hi>Anthony,</hi> &amp; ſo grieuouſly offende our L. God, in the deſtruction of our honor, life, &amp; goodes, which you haue procured: neyther woulde I, or any the reſt of the <hi>Portingales,</hi> his true ſubiects, refuſe to ſerue you as a Chriſtian King, and ſuch a one as the <hi>Portingales</hi> nation haue euer borne great goodwil vnto. For as well in reſpect of the ſayde duetie, as alſo by reaſon of your kindred with the K. of <hi>Portingall,</hi> it becommeth not you to deſire that I ſhould ſerue you as your vaſſall, neyther will my duety beare that I ſhoulde ſerue you as your ſubiect.</p>
+               <pb facs="tcp:177492:44"/>
+               <p>This Ile together with the inhabi<g ref="char:EOLhyphen"/>tauntes thereof belong to king <hi>Antho<g ref="char:EOLhyphen"/>ny,</hi> to whome they are ſworne as to their king and naturall Lord, and that as well in his right of ſucceſſion, and free election of the people of this kngdome, as alſo for that the citie &amp; chamber of <hi>Lisbone</hi> writt downe certayne reaſons, together with his right thereto, which I cannot thinke but your Maieſtie haue notice of.</p>
+               <p>Farther, although there were no other cauſe but y<hi rend="sup">e</hi> only electio<g ref="char:cmbAbbrStroke">̄</g> of y<hi rend="sup">e</hi> people of this Realme, who for default of kings, are by their decrees and ordinances to chuſe o<g ref="char:EOLhyphen"/>thers: yet was it inough, that your Maie<g ref="char:EOLhyphen"/>ſtie entred the lande with an armie, the controuerſie not being decided: for had your title bin neuer ſo good, yet had you thereby vtterly loſt it. But I truſt in god the whole will returne to ſuch paſſe, as your Maieſtie for the enioying thereof, will not damne your own ſoule, but that it will in the ende fall agayne into the right Lords dominion, notwithſtanding, he be now diſpoſſeſſed thereof. Your Ma<g ref="char:EOLhyphen"/>ieſtie muſt not think me paſt ſhame, but a man damnified. And I would to GOD
+<pb facs="tcp:177492:45"/> that all kings had in their counſels free men, deuoyde of ambition, ſo ſhoulde not our R. <hi>Don Anthony,</hi> haue fallen into that eſtate, whereto great treaſons haue caſt him headlong, neither your Maieſtie into the great danger of the loſſe of your ſelfe, and ſubuerſion of all Chriſtiandom: beſides, if you be at the day of iudgement to giue accompt of the honors, deathes, &amp; pillages of ſo many men, and of their li<g ref="char:EOLhyphen"/>bertie, you can not ſufficiently repent &amp; make amendes for that is already paſſed. If your maieſtie woulde but thinke vpon y<hi rend="sup">e</hi> houre of your death, together with the euils that then will offer them ſelues to your view, and remember that you are e<g ref="char:EOLhyphen"/>uerlaſtingly to ſuffer the paynes whiche you haue inflicted vpon the <hi>Portingalls</hi> perceiuing then howe neere the loſſe of all is vnto you; Oh! howe woulde you turne aſide from all that is paſt: for at y<hi rend="sup">t</hi> time it will bee before your eyes. Howe much better had it bin for you, quietly to haue remained in your own realme, to ſee your vaſſals in peace, your ſelfe beloued of all Chriſtians, and obeyed of all your ſubiectes! for in reſpect of that you haue
+<pb facs="tcp:177492:45"/> done in <hi>Portingall,</hi> not onely all Chriſti<g ref="char:EOLhyphen"/>an kings and princes, but alſo the very barbarous nations do mortally hate you.</p>
+               <p>Conſider howe many Innocents you haue w<hi rend="sup">t</hi> your weapons murdered: thinke vpo<g ref="char:cmbAbbrStroke">̄</g> the rauiſhments of ſo many widows and maydes, bournings and lamentati<g ref="char:EOLhyphen"/>ons, as do cry to God for vengeaunce aginſt you. Remember how many wiues ar e ſeparated from ther huſbands through forced adulteries: how many Churches are profaned, and religion diſ<g ref="char:EOLhyphen"/>honored: alſo into what ſlauerie you haue reduced the inhabitants of <hi>Portingal,</hi> for that of all this, and of more which you haue cauſed, you ſhall giue accompt be<g ref="char:EOLhyphen"/>fore God, who will call you thereto with rigorous iuſtice, as that the whole hath been perpetrated in a realme which God hath loued aboue all others in the world. That which the inhabita<g ref="char:cmbAbbrStroke">̄</g>ts of this afflic<g ref="char:EOLhyphen"/>ted realme doe endure, is ſufficient to let you know, that they which are out of this bondage and heauie yoke, do couet rather freely to dye in the warres, then to fall in<g ref="char:EOLhyphen"/>to ſuch ſlauery: neither will I otherwiſe counſell the inhabitants of this Ile, leaſt
+<pb facs="tcp:177492:46"/> I ſhoulde both damne my ſoule, and my honor ſhould fall into leſſe reputation the<g ref="char:cmbAbbrStroke">̄</g> nowe it is in. For thereof I make ſuche accoumpt, as I had rather loſe all liues that it were poſſible to enioy, then not to continue loyall to any king to whome I am ſworne. For to die well is perpetuall honor, for the preſeruation wherof, I had rather perſeuer in loyalty, then feare the preparatiues of people, ſhippes, and mu<g ref="char:EOLhyphen"/>nition, wherewith your Maieſtie doeth threaten me: for I haue ſuch a confidence in God, that hee will fight for vs &amp; our ſhips. The ſea &amp; hauens of this Ilande, together with the foretreſſes, walles, and trenches are ready for the munition: yea, and many pittes opened, whereinto to caſt thoſe people y<hi rend="sup">t</hi> ſhall come to ſeeke vs, who are not to haue any pardon, by rea<g ref="char:EOLhyphen"/>ſon of ſuch miſchiefe as proceedeth of for<g ref="char:EOLhyphen"/>giuing them. Your Maieſtie are not to blame me: for I haue ſworne to R. <hi>Anto<g ref="char:EOLhyphen"/>ny</hi> to defende this crowne for my K. and L. And the like I woulde haue done for for you, in caſe I had been ſworne there<g ref="char:EOLhyphen"/>to, though not with ſo good a will. For it is enough that he is king of <hi>Portingall.</hi>
+               </p>
+               <pb facs="tcp:177492:46"/>
+               <p>But if I ſhoulde through miſhappe fal aliue into your bondage, &amp; for doing my duty, you ſhould put me to death, neither the remembrance of my loyalty, neither the fame of your crueltie and vniuſtice would euer periſh. I ſerue not <hi>Don An<g ref="char:EOLhyphen"/>thony</hi> for any benefite, notwithſtanding, I may obtayne more of him then of any other K. But my loyalty conſiſteth in ful<g ref="char:EOLhyphen"/>filling my duety, which cauſeth that ſuch rewardes as by other then the K. of <hi>Por<g ref="char:EOLhyphen"/>tingall</hi> are promiſed, can no whit mooue mee. For beyond my duety, there is no<g ref="char:EOLhyphen"/>thing that can change my honor and loy<g ref="char:EOLhyphen"/>tie, which I do more eſteeme then all the kingdomes in the worlde, whiche is the ſame that enuegleth manie Gentlemen.</p>
+               <p>Our Lorde God guide your Maieſtie to your kingdome, and reſtore <hi>Portin<g ref="char:EOLhyphen"/>gall</hi> to her right king and lord <hi>Don An<g ref="char:EOLhyphen"/>thony,</hi> as all true and loyall Portingals doe wiſhe.</p>
+               <closer>
+                  <signed>From this noble Citie of <hi>Angera,</hi> in Ieſus Chriſtes. <hi>Ile of Tercera.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <head>The ſuperſcription was.</head>
+                  <p>
+                     <hi>To the K. of Caſtille from the gouer<g ref="char:EOLhyphen"/>nour of the Aſſorian Iles.</hi>
+                  </p>
+               </postscript>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:177492:47"/>
+            <p>
+               <hi>Imprinted at London</hi> at the three Cranes in the <hi>Vintree, by Thomas Daw<g ref="char:EOLhyphen"/>ſon,</hi> for Thomas Charde.</p>
+            <pb facs="tcp:177492:47"/>
+         </div>
+      </back>
+   </text>
+</TEI>
